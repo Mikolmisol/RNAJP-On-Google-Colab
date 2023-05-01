@@ -1,0 +1,8 @@
+cWW-cWH-cWW cWW-cHW-cWW
+6 nucleotides
+cWW-cWH-cWW cWW-cHW-cWW
+3 basepairs
+6 stacks
+0 base-phosphate
+0 base-ribose
+40 instances

@@ -1,0 +1,6 @@
+1 7 cWW 
+2 3 perp 
+2 7 s55 
+4 5 s53 
+4 7 perp 
+5 7 perp 

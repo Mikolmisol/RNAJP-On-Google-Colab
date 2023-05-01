@@ -1,0 +1,9609 @@
+Not generating random sequences
+Normalization variable is 1
+pIsoScore2(1,1,4,2) is:
+
+ans =
+
+    0.0095    0.0225    0.0101    0.2082
+    0.0179    0.0098    0.1980    0.0106
+    0.0101    0.2006    0.0021    0.0543
+    0.1999    0.0112    0.0235    0.0118
+
+pIsoScore2(1,1,4,2) normalization:
+
+ans =
+
+     1
+
+Parameter vector is 
+
+Param =
+
+     0     2     0     4   100     1     1     1   100     7     5
+
+No transitions.mat file found, calculating transition probabilities
+pConsensusPairSubstitution:  New 4x4 substitution matrix for instance 1 of 1, pair 3,5 for nucleotide 3 (G) making self BPh with edge 1
+pCalculateTransitions:  cWW basepair probabilities are
+
+cWW_M =
+
+    0.3916
+    0.3553
+    0.0991
+    0.0743
+    0.0023
+    0.0774
+
+pCalculateTransitions:  initial distribution is
+
+initial_M =
+
+    0.1819
+    0.1022
+    0.3862
+    0.3297
+
+pCalculateTransitions:  transition matrix is
+
+transition_M =
+
+    0.4528    0.1346    0.2069    0.2057
+    0.3313    0.1692    0.2384    0.2610
+    0.4137    0.1725    0.2011    0.2126
+    0.2273    0.2328    0.2375    0.3024
+
+Elapsed time is 0.000500 seconds.
+
+Timestamp 30-Oct-2018 19:06:17
+pMakeSCFGModels: Analyzing motif group HL_00186.1
+
+OwnScores =
+
+   -2.5660
+   -2.5660
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_00186.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_00186.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.798979 seconds.
+
+Timestamp 30-Oct-2018 19:06:17
+pMakeSCFGModels: Analyzing motif group HL_00641.1
+
+OwnScores =
+
+   -4.8380
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_00641.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_00641.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.441778 seconds.
+
+Timestamp 30-Oct-2018 19:06:18
+pMakeSCFGModels: Analyzing motif group HL_01008.1
+
+OwnScores =
+
+   -3.3931
+   -3.3931
+   -3.3931
+   -3.3931
+   -3.3931
+   -3.3931
+   -3.8284
+   -3.8284
+   -4.2716
+   -4.2716
+   -9.5556
+   -9.5556
+   -9.9429
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_01008.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_01008.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.504847 seconds.
+
+Timestamp 30-Oct-2018 19:06:18
+pMakeSCFGModels: Analyzing motif group HL_01089.1
+
+OwnScores =
+
+   -5.9852
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_01089.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_01089.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.324913 seconds.
+
+Timestamp 30-Oct-2018 19:06:19
+pMakeSCFGModels: Analyzing motif group HL_01181.1
+
+OwnScores =
+
+   -5.5737
+   -5.5737
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_01181.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_01181.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.334101 seconds.
+
+Timestamp 30-Oct-2018 19:06:19
+pMakeSCFGModels: Analyzing motif group HL_01187.1
+
+OwnScores =
+
+   -5.7870
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_01187.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_01187.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.214275 seconds.
+
+Timestamp 30-Oct-2018 19:06:19
+pMakeSCFGModels: Analyzing motif group HL_01397.1
+
+OwnScores =
+
+  -13.5771
+  -12.8003
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_01397.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_01397.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.486475 seconds.
+
+Timestamp 30-Oct-2018 19:06:20
+pMakeSCFGModels: Analyzing motif group HL_01472.1
+
+OwnScores =
+
+   -4.6747
+   -4.1639
+   -4.7280
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_01472.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_01472.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.306014 seconds.
+
+Timestamp 30-Oct-2018 19:06:20
+pMakeSCFGModels: Analyzing motif group HL_02483.1
+
+OwnScores =
+
+   -7.7782
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_02483.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_02483.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.353668 seconds.
+
+Timestamp 30-Oct-2018 19:06:20
+pMakeSCFGModels: Analyzing motif group HL_02733.1
+
+OwnScores =
+
+   -3.6122
+   -2.5136
+   -2.5136
+   -3.6122
+   -2.5136
+   -5.1555
+   -2.5136
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_02733.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_02733.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.305981 seconds.
+
+Timestamp 30-Oct-2018 19:06:21
+pMakeSCFGModels: Analyzing motif group HL_02811.1
+
+OwnScores =
+
+   -8.1869
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_02811.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_02811.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.216858 seconds.
+
+Timestamp 30-Oct-2018 19:06:21
+pMakeSCFGModels: Analyzing motif group HL_02932.1
+
+OwnScores =
+
+   -6.6669
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_02932.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_02932.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.293635 seconds.
+
+Timestamp 30-Oct-2018 19:06:21
+pMakeSCFGModels: Analyzing motif group HL_03427.1
+
+OwnScores =
+
+   -5.7093
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_03427.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_03427.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.267678 seconds.
+
+Timestamp 30-Oct-2018 19:06:21
+pMakeSCFGModels: Analyzing motif group HL_03603.1
+
+OwnScores =
+
+  -10.5637
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_03603.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_03603.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.284301 seconds.
+
+Timestamp 30-Oct-2018 19:06:22
+pMakeSCFGModels: Analyzing motif group HL_03847.1
+
+OwnScores =
+
+   -6.5649
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_03847.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_03847.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.248173 seconds.
+
+Timestamp 30-Oct-2018 19:06:22
+pMakeSCFGModels: Analyzing motif group HL_04032.1
+
+OwnScores =
+
+   -4.7784
+   -4.7784
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_04032.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_04032.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.398681 seconds.
+
+Timestamp 30-Oct-2018 19:06:22
+pMakeSCFGModels: Analyzing motif group HL_04171.1
+
+OwnScores =
+
+   -6.6261
+   -6.6261
+   -6.6261
+   -6.6261
+   -6.6261
+   -6.6261
+   -8.1041
+   -8.1041
+   -8.1041
+  -14.5382
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_04171.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_04171.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.642727 seconds.
+
+Timestamp 30-Oct-2018 19:06:23
+pMakeSCFGModels: Analyzing motif group HL_05018.1
+
+OwnScores =
+
+   -5.4768
+   -6.1778
+   -5.4768
+   -4.8890
+   -5.4768
+   -8.1300
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_05018.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_05018.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.364622 seconds.
+
+Timestamp 30-Oct-2018 19:06:23
+pMakeSCFGModels: Analyzing motif group HL_05123.1
+
+OwnScores =
+
+   -8.5872
+   -8.5872
+   -7.6806
+   -7.6806
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_05123.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_05123.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.346102 seconds.
+
+Timestamp 30-Oct-2018 19:06:24
+pMakeSCFGModels: Analyzing motif group HL_05435.1
+
+OwnScores =
+
+   -4.9597
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_05435.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_05435.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.229873 seconds.
+
+Timestamp 30-Oct-2018 19:06:24
+pMakeSCFGModels: Analyzing motif group HL_05692.1
+
+OwnScores =
+
+   -5.9228
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_05692.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_05692.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.186237 seconds.
+
+Timestamp 30-Oct-2018 19:06:24
+pMakeSCFGModels: Analyzing motif group HL_05721.1
+
+OwnScores =
+
+   -3.8145
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_05721.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_05721.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.193265 seconds.
+
+Timestamp 30-Oct-2018 19:06:24
+pMakeSCFGModels: Analyzing motif group HL_06137.1
+
+OwnScores =
+
+   -9.2821
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_06137.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_06137.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.981590 seconds.
+
+Timestamp 30-Oct-2018 19:06:25
+pMakeSCFGModels: Analyzing motif group HL_06228.1
+
+OwnScores =
+
+   -7.0676
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_06228.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_06228.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.231227 seconds.
+
+Timestamp 30-Oct-2018 19:06:26
+pMakeSCFGModels: Analyzing motif group HL_06627.1
+
+OwnScores =
+
+   -7.5871
+   -7.5871
+   -7.8425
+   -9.2164
+   -9.2164
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_06627.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_06627.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.345402 seconds.
+
+Timestamp 30-Oct-2018 19:06:26
+pMakeSCFGModels: Analyzing motif group HL_06645.1
+
+OwnScores =
+
+   -5.0503
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_06645.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_06645.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.261763 seconds.
+
+Timestamp 30-Oct-2018 19:06:26
+pMakeSCFGModels: Analyzing motif group HL_07268.1
+
+OwnScores =
+
+   -8.5594
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_07268.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_07268.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.229666 seconds.
+
+Timestamp 30-Oct-2018 19:06:26
+pMakeSCFGModels: Analyzing motif group HL_07305.1
+
+OwnScores =
+
+   -9.4454
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_07305.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_07305.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.346305 seconds.
+
+Timestamp 30-Oct-2018 19:06:27
+pMakeSCFGModels: Analyzing motif group HL_07432.1
+
+OwnScores =
+
+  -11.0167
+  -11.0167
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_07432.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_07432.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.391672 seconds.
+
+Timestamp 30-Oct-2018 19:06:27
+pMakeSCFGModels: Analyzing motif group HL_07579.1
+
+OwnScores =
+
+   -8.6273
+   -8.6273
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_07579.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_07579.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.377617 seconds.
+
+Timestamp 30-Oct-2018 19:06:28
+pMakeSCFGModels: Analyzing motif group HL_07972.1
+
+OwnScores =
+
+   -4.2224
+   -6.8122
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_07972.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_07972.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.220080 seconds.
+
+Timestamp 30-Oct-2018 19:06:28
+pMakeSCFGModels: Analyzing motif group HL_08002.1
+
+OwnScores =
+
+   -5.3132
+   -5.3132
+   -5.3132
+   -5.2020
+   -7.8601
+   -5.2020
+   -5.2020
+   -7.8601
+   -8.1485
+   -6.5979
+   -9.1470
+   -9.1470
+   -6.8603
+   -6.3027
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_08002.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_08002.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.482975 seconds.
+
+Timestamp 30-Oct-2018 19:06:28
+pMakeSCFGModels: Analyzing motif group HL_08291.1
+
+OwnScores =
+
+   -7.5327
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_08291.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_08291.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.286239 seconds.
+
+Timestamp 30-Oct-2018 19:06:29
+pMakeSCFGModels: Analyzing motif group HL_08510.1
+
+OwnScores =
+
+   -5.3349
+   -5.3349
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_08510.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_08510.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.283881 seconds.
+
+Timestamp 30-Oct-2018 19:06:29
+pMakeSCFGModels: Analyzing motif group HL_08602.1
+
+OwnScores =
+
+   -9.3260
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_08602.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_08602.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.380866 seconds.
+
+Timestamp 30-Oct-2018 19:06:29
+pMakeSCFGModels: Analyzing motif group HL_09150.1
+
+OwnScores =
+
+   -7.4302
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_09150.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_09150.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.345036 seconds.
+
+Timestamp 30-Oct-2018 19:06:30
+pMakeSCFGModels: Analyzing motif group HL_09712.1
+
+OwnScores =
+
+   -4.4306
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_09712.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_09712.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.217699 seconds.
+
+Timestamp 30-Oct-2018 19:06:30
+pMakeSCFGModels: Analyzing motif group HL_10751.1
+
+OwnScores =
+
+   -6.6196
+   -6.6196
+   -7.7182
+   -6.6196
+  -14.1975
+   -6.6196
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_10751.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_10751.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.368584 seconds.
+
+Timestamp 30-Oct-2018 19:06:30
+pMakeSCFGModels: Analyzing motif group HL_11017.1
+
+OwnScores =
+
+   -4.6372
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_11017.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_11017.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.188854 seconds.
+
+Timestamp 30-Oct-2018 19:06:30
+pMakeSCFGModels: Analyzing motif group HL_11544.1
+
+OwnScores =
+
+   -3.9896
+   -3.9896
+   -4.2429
+   -6.2727
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_11544.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_11544.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.268489 seconds.
+
+Timestamp 30-Oct-2018 19:06:31
+pMakeSCFGModels: Analyzing motif group HL_11805.1
+
+OwnScores =
+
+   -5.8354
+   -5.8354
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_11805.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_11805.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.289037 seconds.
+
+Timestamp 30-Oct-2018 19:06:31
+pMakeSCFGModels: Analyzing motif group HL_12053.1
+
+OwnScores =
+
+   -5.7251
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_12053.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_12053.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.237710 seconds.
+
+Timestamp 30-Oct-2018 19:06:31
+pMakeSCFGModels: Analyzing motif group HL_12571.1
+
+OwnScores =
+
+   -8.6543
+   -8.6316
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_12571.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_12571.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.439048 seconds.
+
+Timestamp 30-Oct-2018 19:06:32
+pMakeSCFGModels: Analyzing motif group HL_12703.1
+
+OwnScores =
+
+   -2.9025
+   -2.9025
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_12703.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_12703.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.184746 seconds.
+
+Timestamp 30-Oct-2018 19:06:32
+pMakeSCFGModels: Analyzing motif group HL_12710.1
+
+OwnScores =
+
+  -11.5472
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_12710.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_12710.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.437094 seconds.
+
+Timestamp 30-Oct-2018 19:06:32
+pMakeSCFGModels: Analyzing motif group HL_12773.1
+
+OwnScores =
+
+   -9.1715
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_12773.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_12773.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.291524 seconds.
+
+Timestamp 30-Oct-2018 19:06:32
+pMakeSCFGModels: Analyzing motif group HL_12870.1
+
+OwnScores =
+
+   -6.9056
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_12870.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_12870.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.296257 seconds.
+
+Timestamp 30-Oct-2018 19:06:33
+pMakeSCFGModels: Analyzing motif group HL_13145.1
+
+OwnScores =
+
+   -3.6475
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_13145.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_13145.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.317539 seconds.
+
+Timestamp 30-Oct-2018 19:06:33
+pMakeSCFGModels: Analyzing motif group HL_14612.1
+
+OwnScores =
+
+   -5.4799
+   -5.4799
+   -5.4799
+   -5.4799
+   -7.9449
+   -7.4341
+   -5.8454
+   -5.8454
+  -10.5793
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_14612.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_14612.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.361588 seconds.
+
+Timestamp 30-Oct-2018 19:06:33
+pMakeSCFGModels: Analyzing motif group HL_14748.1
+
+OwnScores =
+
+   -4.1103
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_14748.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_14748.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.241309 seconds.
+
+Timestamp 30-Oct-2018 19:06:34
+pMakeSCFGModels: Analyzing motif group HL_14859.1
+
+OwnScores =
+
+   -4.3032
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_14859.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_14859.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.190154 seconds.
+
+Timestamp 30-Oct-2018 19:06:34
+pMakeSCFGModels: Analyzing motif group HL_15501.1
+
+OwnScores =
+
+   -7.1758
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_15501.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_15501.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.318573 seconds.
+
+Timestamp 30-Oct-2018 19:06:34
+pMakeSCFGModels: Analyzing motif group HL_15528.1
+
+OwnScores =
+
+   -6.0588
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_15528.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_15528.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.317022 seconds.
+
+Timestamp 30-Oct-2018 19:06:35
+pMakeSCFGModels: Analyzing motif group HL_15942.1
+
+OwnScores =
+
+   -3.1164
+   -3.1164
+   -3.1164
+   -5.5912
+   -3.7042
+   -4.8797
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_15942.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_15942.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.235545 seconds.
+
+Timestamp 30-Oct-2018 19:06:35
+pMakeSCFGModels: Analyzing motif group HL_15968.1
+
+OwnScores =
+
+   -4.8973
+   -4.8973
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_15968.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_15968.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.235184 seconds.
+
+Timestamp 30-Oct-2018 19:06:35
+pMakeSCFGModels: Analyzing motif group HL_16405.1
+
+OwnScores =
+
+   -4.8525
+   -4.8525
+  -12.1736
+  -11.0181
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_16405.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_16405.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.260816 seconds.
+
+Timestamp 30-Oct-2018 19:06:35
+pMakeSCFGModels: Analyzing motif group HL_16449.1
+
+OwnScores =
+
+   -6.2189
+   -4.9516
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_16449.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_16449.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.253831 seconds.
+
+Timestamp 30-Oct-2018 19:06:36
+pMakeSCFGModels: Analyzing motif group HL_16827.1
+
+OwnScores =
+
+   -5.8745
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_16827.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_16827.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.188585 seconds.
+
+Timestamp 30-Oct-2018 19:06:36
+pMakeSCFGModels: Analyzing motif group HL_16845.1
+
+OwnScores =
+
+   -5.7725
+   -5.7191
+   -7.4502
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_16845.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_16845.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.215233 seconds.
+
+Timestamp 30-Oct-2018 19:06:36
+pMakeSCFGModels: Analyzing motif group HL_17086.1
+
+OwnScores =
+
+  -11.9998
+  -10.9999
+  -13.3443
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_17086.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_17086.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.440723 seconds.
+
+Timestamp 30-Oct-2018 19:06:36
+pMakeSCFGModels: Analyzing motif group HL_17210.1
+
+OwnScores =
+
+   -3.3648
+   -3.3648
+   -3.8756
+   -3.3648
+   -3.3648
+   -3.8756
+   -3.8756
+   -5.0795
+   -7.7484
+   -7.7484
+   -7.7484
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_17210.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_17210.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.309125 seconds.
+
+Timestamp 30-Oct-2018 19:06:37
+pMakeSCFGModels: Analyzing motif group HL_17899.1
+
+OwnScores =
+
+   -3.7607
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_17899.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_17899.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.269569 seconds.
+
+Timestamp 30-Oct-2018 19:06:37
+pMakeSCFGModels: Analyzing motif group HL_17926.1
+
+OwnScores =
+
+  -13.0452
+  -11.5997
+  -13.5910
+  -10.9985
+   -8.9833
+   -9.4942
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_17926.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_17926.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.327340 seconds.
+
+Timestamp 30-Oct-2018 19:06:37
+pMakeSCFGModels: Analyzing motif group HL_17956.1
+
+OwnScores =
+
+   -7.8489
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_17956.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_17956.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.341847 seconds.
+
+Timestamp 30-Oct-2018 19:06:38
+pMakeSCFGModels: Analyzing motif group HL_18368.1
+
+OwnScores =
+
+   -6.2181
+   -5.5617
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_18368.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_18368.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.182305 seconds.
+
+Timestamp 30-Oct-2018 19:06:38
+pMakeSCFGModels: Analyzing motif group HL_18785.1
+
+OwnScores =
+
+   -3.9482
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_18785.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_18785.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.173567 seconds.
+
+Timestamp 30-Oct-2018 19:06:38
+pMakeSCFGModels: Analyzing motif group HL_19162.1
+
+OwnScores =
+
+   -9.7309
+   -9.7309
+   -9.7309
+   -9.7309
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_19162.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_19162.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.376101 seconds.
+
+Timestamp 30-Oct-2018 19:06:38
+pMakeSCFGModels: Analyzing motif group HL_19735.1
+
+OwnScores =
+
+   -7.5614
+   -6.6905
+   -8.3085
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_19735.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_19735.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.294793 seconds.
+
+Timestamp 30-Oct-2018 19:06:39
+pMakeSCFGModels: Analyzing motif group HL_19870.1
+
+OwnScores =
+
+   -7.3784
+   -8.5731
+   -7.3784
+   -9.3243
+   -8.2052
+  -10.8827
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_19870.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_19870.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.540025 seconds.
+
+Timestamp 30-Oct-2018 19:06:39
+pMakeSCFGModels: Analyzing motif group HL_19958.1
+
+OwnScores =
+
+   -7.3451
+   -7.3451
+   -7.3451
+   -9.0927
+   -9.0927
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_19958.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_19958.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.406053 seconds.
+
+Timestamp 30-Oct-2018 19:06:40
+pMakeSCFGModels: Analyzing motif group HL_20030.1
+
+OwnScores =
+
+   -5.2944
+   -5.2944
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_20030.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_20030.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.226335 seconds.
+
+Timestamp 30-Oct-2018 19:06:40
+pMakeSCFGModels: Analyzing motif group HL_20270.1
+
+OwnScores =
+
+   -6.5670
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_20270.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_20270.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.203916 seconds.
+
+Timestamp 30-Oct-2018 19:06:40
+pMakeSCFGModels: Analyzing motif group HL_20714.1
+
+OwnScores =
+
+   -8.5100
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_20714.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_20714.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.363221 seconds.
+
+Timestamp 30-Oct-2018 19:06:40
+pMakeSCFGModels: Analyzing motif group HL_20743.1
+
+OwnScores =
+
+   -5.4798
+   -5.4798
+   -5.7080
+   -5.4798
+   -6.6751
+   -6.6751
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_20743.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_20743.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.338625 seconds.
+
+Timestamp 30-Oct-2018 19:06:41
+pMakeSCFGModels: Analyzing motif group HL_20751.1
+
+OwnScores =
+
+   -7.2410
+   -7.2410
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_20751.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_20751.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.337500 seconds.
+
+Timestamp 30-Oct-2018 19:06:41
+pMakeSCFGModels: Analyzing motif group HL_20797.1
+
+OwnScores =
+
+   -7.0478
+   -7.4055
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_20797.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_20797.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.309399 seconds.
+
+Timestamp 30-Oct-2018 19:06:41
+pMakeSCFGModels: Analyzing motif group HL_20843.1
+
+OwnScores =
+
+   -5.2916
+   -5.2916
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_20843.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_20843.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.352434 seconds.
+
+Timestamp 30-Oct-2018 19:06:42
+pMakeSCFGModels: Analyzing motif group HL_20859.1
+
+OwnScores =
+
+   -5.7173
+   -6.1496
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_20859.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_20859.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.262220 seconds.
+
+Timestamp 30-Oct-2018 19:06:42
+pMakeSCFGModels: Analyzing motif group HL_20891.1
+
+OwnScores =
+
+   -6.7470
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_20891.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_20891.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.240037 seconds.
+
+Timestamp 30-Oct-2018 19:06:42
+pMakeSCFGModels: Analyzing motif group HL_23090.1
+
+OwnScores =
+
+   -5.6175
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_23090.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_23090.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.262438 seconds.
+
+Timestamp 30-Oct-2018 19:06:42
+pMakeSCFGModels: Analyzing motif group HL_23219.1
+
+OwnScores =
+
+   -4.9666
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_23219.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_23219.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.365809 seconds.
+
+Timestamp 30-Oct-2018 19:06:43
+pMakeSCFGModels: Analyzing motif group HL_23481.1
+
+OwnScores =
+
+   -2.1942
+   -2.1942
+   -2.1942
+   -2.1942
+   -2.1942
+   -4.9275
+   -9.3526
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_23481.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_23481.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.337202 seconds.
+
+Timestamp 30-Oct-2018 19:06:43
+pMakeSCFGModels: Analyzing motif group HL_23530.1
+
+OwnScores =
+
+   -2.3966
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_23530.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_23530.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.258421 seconds.
+
+Timestamp 30-Oct-2018 19:06:43
+pMakeSCFGModels: Analyzing motif group HL_23537.1
+
+OwnScores =
+
+   -3.8149
+   -4.6622
+   -5.5095
+   -3.8149
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_23537.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_23537.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.363027 seconds.
+
+Timestamp 30-Oct-2018 19:06:44
+pMakeSCFGModels: Analyzing motif group HL_23986.1
+
+OwnScores =
+
+   -4.3939
+   -4.3939
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_23986.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_23986.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.201635 seconds.
+
+Timestamp 30-Oct-2018 19:06:44
+pMakeSCFGModels: Analyzing motif group HL_24323.1
+
+OwnScores =
+
+   -6.4397
+   -7.6191
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_24323.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_24323.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.289839 seconds.
+
+Timestamp 30-Oct-2018 19:06:44
+pMakeSCFGModels: Analyzing motif group HL_24625.1
+
+OwnScores =
+
+   -2.5658
+   -2.5658
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_24625.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_24625.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.223480 seconds.
+
+Timestamp 30-Oct-2018 19:06:45
+pMakeSCFGModels: Analyzing motif group HL_25183.1
+
+OwnScores =
+
+   -5.5943
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_25183.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_25183.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.207111 seconds.
+
+Timestamp 30-Oct-2018 19:06:45
+pMakeSCFGModels: Analyzing motif group HL_25619.1
+
+OwnScores =
+
+   -7.7689
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_25619.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_25619.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.252313 seconds.
+
+Timestamp 30-Oct-2018 19:06:45
+pMakeSCFGModels: Analyzing motif group HL_25762.1
+
+OwnScores =
+
+   -6.4168
+   -7.5433
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_25762.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_25762.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.277425 seconds.
+
+Timestamp 30-Oct-2018 19:06:45
+pMakeSCFGModels: Analyzing motif group HL_26055.1
+
+OwnScores =
+
+   -5.0877
+   -5.0877
+   -5.0877
+   -5.0877
+   -6.9692
+   -6.9692
+  -12.9817
+   -5.3193
+  -10.6001
+   -9.1251
+   -6.6543
+   -6.6543
+   -7.4893
+   -7.4893
+   -7.5459
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_26055.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_26055.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.457794 seconds.
+
+Timestamp 30-Oct-2018 19:06:46
+pMakeSCFGModels: Analyzing motif group HL_26501.1
+
+OwnScores =
+
+   -7.2863
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_26501.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_26501.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.223054 seconds.
+
+Timestamp 30-Oct-2018 19:06:46
+pMakeSCFGModels: Analyzing motif group HL_26878.1
+
+OwnScores =
+
+   -4.9410
+   -9.1360
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_26878.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_26878.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.231808 seconds.
+
+Timestamp 30-Oct-2018 19:06:46
+pMakeSCFGModels: Analyzing motif group HL_27335.1
+
+OwnScores =
+
+   -6.9724
+   -6.9724
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_27335.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_27335.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.262575 seconds.
+
+Timestamp 30-Oct-2018 19:06:46
+pMakeSCFGModels: Analyzing motif group HL_27593.1
+
+OwnScores =
+
+   -6.0488
+   -5.3238
+   -4.9794
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_27593.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_27593.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.281618 seconds.
+
+Timestamp 30-Oct-2018 19:06:47
+pMakeSCFGModels: Analyzing motif group HL_27703.1
+
+OwnScores =
+
+   -3.7261
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_27703.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_27703.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.248687 seconds.
+
+Timestamp 30-Oct-2018 19:06:47
+pMakeSCFGModels: Analyzing motif group HL_27764.1
+
+OwnScores =
+
+   -5.1889
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_27764.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_27764.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.277854 seconds.
+
+Timestamp 30-Oct-2018 19:06:47
+pMakeSCFGModels: Analyzing motif group HL_27981.1
+
+OwnScores =
+
+   -8.4633
+   -8.4633
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_27981.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_27981.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.265007 seconds.
+
+Timestamp 30-Oct-2018 19:06:47
+pMakeSCFGModels: Analyzing motif group HL_28843.1
+
+OwnScores =
+
+  -14.1287
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_28843.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_28843.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.450408 seconds.
+
+Timestamp 30-Oct-2018 19:06:48
+pMakeSCFGModels: Analyzing motif group HL_29392.1
+
+OwnScores =
+
+   -5.6852
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_29392.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_29392.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.295799 seconds.
+
+Timestamp 30-Oct-2018 19:06:48
+pMakeSCFGModels: Analyzing motif group HL_29487.1
+
+OwnScores =
+
+   -2.3356
+   -2.3356
+   -2.3356
+   -2.3356
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_29487.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_29487.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.251998 seconds.
+
+Timestamp 30-Oct-2018 19:06:48
+pMakeSCFGModels: Analyzing motif group HL_29748.1
+
+OwnScores =
+
+   -6.1111
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_29748.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_29748.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.314603 seconds.
+
+Timestamp 30-Oct-2018 19:06:49
+pMakeSCFGModels: Analyzing motif group HL_30585.1
+
+OwnScores =
+
+  -12.7400
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_30585.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_30585.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.405875 seconds.
+
+Timestamp 30-Oct-2018 19:06:49
+pMakeSCFGModels: Analyzing motif group HL_30596.1
+
+OwnScores =
+
+   -8.3804
+   -8.3804
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_30596.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_30596.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.240783 seconds.
+
+Timestamp 30-Oct-2018 19:06:49
+pMakeSCFGModels: Analyzing motif group HL_30819.1
+
+OwnScores =
+
+   -8.8525
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_30819.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_30819.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.347158 seconds.
+
+Timestamp 30-Oct-2018 19:06:50
+pMakeSCFGModels: Analyzing motif group HL_30830.1
+
+OwnScores =
+
+  -11.5077
+   -7.6072
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_30830.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_30830.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.292829 seconds.
+
+Timestamp 30-Oct-2018 19:06:50
+pMakeSCFGModels: Analyzing motif group HL_31286.1
+
+OwnScores =
+
+   -5.7903
+   -5.7903
+   -5.7903
+   -5.7903
+  -11.4609
+  -11.4563
+   -9.3685
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_31286.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_31286.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.439732 seconds.
+
+Timestamp 30-Oct-2018 19:06:51
+pMakeSCFGModels: Analyzing motif group HL_31345.1
+
+OwnScores =
+
+   -4.7662
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_31345.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_31345.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.224124 seconds.
+
+Timestamp 30-Oct-2018 19:06:51
+pMakeSCFGModels: Analyzing motif group HL_31581.1
+
+OwnScores =
+
+   -6.9751
+   -6.9751
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_31581.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_31581.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.314573 seconds.
+
+Timestamp 30-Oct-2018 19:06:51
+pMakeSCFGModels: Analyzing motif group HL_32255.1
+
+OwnScores =
+
+   -5.9377
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_32255.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_32255.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.393151 seconds.
+
+Timestamp 30-Oct-2018 19:06:51
+pMakeSCFGModels: Analyzing motif group HL_32512.1
+
+OwnScores =
+
+   -5.2876
+   -5.2876
+   -5.2876
+   -5.2876
+   -5.2876
+   -5.2876
+   -8.8160
+   -8.8160
+  -14.0073
+   -6.9183
+   -6.5818
+   -6.9183
+  -15.5474
+   -6.5818
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_32512.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_32512.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.396268 seconds.
+
+Timestamp 30-Oct-2018 19:06:52
+pMakeSCFGModels: Analyzing motif group HL_32617.1
+
+OwnScores =
+
+   -3.8772
+   -3.8772
+   -3.8662
+   -3.8662
+   -3.7366
+   -3.7366
+   -3.7366
+   -3.7366
+   -7.3453
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_32617.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_32617.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.318767 seconds.
+
+Timestamp 30-Oct-2018 19:06:52
+pMakeSCFGModels: Analyzing motif group HL_33239.1
+
+OwnScores =
+
+   -3.0635
+   -5.2901
+   -5.2901
+   -3.8095
+   -3.3575
+   -3.3575
+   -3.3575
+   -2.8628
+   -3.8095
+   -3.3575
+   -2.8628
+   -3.8095
+   -3.8095
+   -2.8628
+   -3.3148
+   -2.8628
+   -3.3575
+   -3.3575
+   -3.3575
+   -3.8095
+   -3.3148
+   -3.3148
+   -3.3148
+   -6.6618
+   -3.3575
+   -3.5582
+   -2.8628
+   -5.5414
+   -5.5414
+   -3.3575
+   -3.5582
+   -3.5582
+   -2.8628
+   -2.8628
+   -3.3575
+   -4.8088
+   -2.8628
+   -2.8628
+   -3.0635
+   -3.8095
+   -2.8628
+   -3.0635
+   -2.8628
+   -3.3148
+   -3.3148
+   -3.0635
+   -3.0635
+   -4.8088
+   -3.3148
+   -5.2901
+   -3.3148
+   -3.5582
+   -3.0635
+   -2.8628
+   -4.8088
+   -3.8095
+   -2.8628
+   -5.2901
+   -3.0635
+   -3.0635
+   -6.1351
+  -14.4860
+  -17.5137
+  -18.6580
+   -3.3148
+  -17.7338
+   -2.8628
+   -2.8628
+   -3.0635
+  -17.7338
+   -3.0635
+   -2.8628
+   -6.6298
+   -3.0635
+   -5.1679
+   -5.6831
+   -5.6831
+   -3.8095
+   -3.8095
+   -3.0635
+   -3.0635
+   -3.0635
+   -5.6831
+  -10.6252
+   -9.2055
+   -5.6831
+   -3.8095
+   -8.1237
+   -7.9096
+   -5.2901
+   -6.3785
+   -6.3785
+   -6.3785
+   -6.3785
+   -6.3785
+   -6.3785
+   -7.3689
+   -6.3785
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_33239.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_33239.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 2.422505 seconds.
+
+Timestamp 30-Oct-2018 19:06:55
+pMakeSCFGModels: Analyzing motif group HL_33507.1
+
+OwnScores =
+
+   -2.9605
+   -2.9605
+   -3.5319
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_33507.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_33507.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.228335 seconds.
+
+Timestamp 30-Oct-2018 19:06:55
+pMakeSCFGModels: Analyzing motif group HL_34327.1
+
+OwnScores =
+
+  -12.4149
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_34327.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_34327.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.278894 seconds.
+
+Timestamp 30-Oct-2018 19:06:55
+pMakeSCFGModels: Analyzing motif group HL_34468.1
+
+OwnScores =
+
+   -5.0937
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_34468.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_34468.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.197010 seconds.
+
+Timestamp 30-Oct-2018 19:06:55
+pMakeSCFGModels: Analyzing motif group HL_34516.1
+
+OwnScores =
+
+   -4.6296
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_34516.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_34516.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.237064 seconds.
+
+Timestamp 30-Oct-2018 19:06:56
+pMakeSCFGModels: Analyzing motif group HL_35010.1
+
+OwnScores =
+
+   -6.4953
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_35010.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_35010.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.346024 seconds.
+
+Timestamp 30-Oct-2018 19:06:56
+pMakeSCFGModels: Analyzing motif group HL_35442.1
+
+OwnScores =
+
+   -6.6060
+   -5.3660
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_35442.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_35442.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.253801 seconds.
+
+Timestamp 30-Oct-2018 19:06:56
+pMakeSCFGModels: Analyzing motif group HL_35491.1
+
+OwnScores =
+
+   -2.5506
+   -2.5506
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_35491.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_35491.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.227663 seconds.
+
+Timestamp 30-Oct-2018 19:06:56
+pMakeSCFGModels: Analyzing motif group HL_35888.1
+
+OwnScores =
+
+   -5.3471
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_35888.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_35888.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.227810 seconds.
+
+Timestamp 30-Oct-2018 19:06:57
+pMakeSCFGModels: Analyzing motif group HL_35894.1
+
+OwnScores =
+
+   -4.2566
+   -4.2566
+   -4.2566
+   -4.2566
+   -8.4247
+   -9.3194
+   -9.0441
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_35894.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_35894.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.386424 seconds.
+
+Timestamp 30-Oct-2018 19:06:57
+pMakeSCFGModels: Analyzing motif group HL_35978.1
+
+OwnScores =
+
+   -2.2575
+   -2.2575
+   -2.2575
+   -2.2575
+   -2.2575
+   -2.2575
+   -2.2575
+   -2.2575
+   -2.2575
+   -2.2575
+   -2.2575
+   -2.2575
+   -2.2575
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_35978.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_35978.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.484121 seconds.
+
+Timestamp 30-Oct-2018 19:06:57
+pMakeSCFGModels: Analyzing motif group HL_36421.1
+
+OwnScores =
+
+   -3.1737
+   -3.1737
+   -3.5676
+   -5.9000
+   -3.7615
+   -5.5262
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_36421.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_36421.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.375797 seconds.
+
+Timestamp 30-Oct-2018 19:06:58
+pMakeSCFGModels: Analyzing motif group HL_36982.1
+
+OwnScores =
+
+   -3.8011
+   -3.8011
+   -3.8011
+   -3.8011
+   -4.8180
+   -4.8180
+   -4.8180
+   -7.1018
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_36982.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_36982.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.255839 seconds.
+
+Timestamp 30-Oct-2018 19:06:58
+pMakeSCFGModels: Analyzing motif group HL_37694.1
+
+OwnScores =
+
+   -4.6901
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_37694.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_37694.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.306166 seconds.
+
+Timestamp 30-Oct-2018 19:06:58
+pMakeSCFGModels: Analyzing motif group HL_37723.1
+
+OwnScores =
+
+   -8.4093
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_37723.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_37723.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.287451 seconds.
+
+Timestamp 30-Oct-2018 19:06:59
+pMakeSCFGModels: Analyzing motif group HL_37846.1
+
+OwnScores =
+
+   -7.6561
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_37846.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_37846.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.254771 seconds.
+
+Timestamp 30-Oct-2018 19:06:59
+pMakeSCFGModels: Analyzing motif group HL_38216.1
+
+OwnScores =
+
+   -5.6949
+   -5.9462
+   -5.9462
+   -6.1744
+   -5.1601
+   -5.1601
+   -5.8067
+   -6.0313
+   -7.4579
+   -8.2175
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_38216.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_38216.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.312964 seconds.
+
+Timestamp 30-Oct-2018 19:06:59
+pMakeSCFGModels: Analyzing motif group HL_38646.1
+
+OwnScores =
+
+   -5.3538
+   -4.8430
+   -5.7856
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_38646.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_38646.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.234444 seconds.
+
+Timestamp 30-Oct-2018 19:07:00
+pMakeSCFGModels: Analyzing motif group HL_39005.1
+
+OwnScores =
+
+   -3.4462
+   -3.4462
+   -1.9002
+   -1.9002
+   -1.9002
+   -1.9002
+   -1.9002
+   -1.9002
+   -3.3665
+   -3.3665
+   -1.9002
+   -3.3183
+   -1.9002
+   -3.4462
+   -1.9002
+   -1.9002
+   -3.4462
+   -1.9002
+   -3.3183
+   -1.9002
+   -1.9002
+   -3.1111
+   -1.9002
+   -3.4462
+   -1.9002
+   -3.1111
+   -1.9002
+   -1.9002
+   -3.1111
+   -3.4462
+   -1.9002
+   -3.1111
+   -3.1111
+   -5.3610
+   -4.1500
+   -1.9002
+   -1.9002
+   -1.9002
+   -1.9002
+   -1.9002
+   -1.9002
+   -3.3665
+   -1.9002
+   -1.9002
+   -1.9002
+   -1.9002
+   -1.9002
+   -1.9002
+   -4.6572
+   -1.9002
+   -1.9002
+   -3.1111
+   -1.9002
+   -3.1111
+   -4.5293
+   -1.9002
+   -3.3183
+   -3.1111
+   -3.3183
+   -1.9002
+   -3.3183
+   -3.8255
+   -3.2581
+   -3.3183
+   -4.1500
+   -1.9002
+   -1.9002
+   -3.4462
+   -3.3183
+   -1.9002
+   -1.9002
+   -4.9259
+   -2.6578
+   -5.7263
+   -3.1111
+   -5.3610
+   -4.1500
+   -3.3183
+   -1.9002
+   -4.1500
+   -4.9259
+   -4.9259
+   -3.2581
+   -6.3441
+   -3.8688
+   -2.6578
+   -3.8255
+   -6.8853
+   -6.8853
+   -3.8255
+   -3.3183
+   -3.8255
+   -3.2581
+   -2.6578
+   -1.9002
+   -2.6578
+   -2.6578
+   -2.6578
+   -3.8255
+   -4.5293
+   -4.9259
+   -1.9002
+   -1.9002
+  -11.2737
+   -2.6578
+   -1.9002
+   -1.9002
+   -1.9002
+   -3.3183
+   -6.1187
+   -2.6578
+   -3.8688
+   -2.6578
+   -2.6578
+   -8.6761
+   -2.6578
+   -8.3989
+   -2.6578
+   -3.8255
+   -3.4462
+   -4.0759
+   -2.6578
+   -3.2581
+   -3.2581
+   -1.9002
+   -2.6578
+   -2.6578
+   -2.6578
+   -2.6578
+   -1.9002
+   -1.9002
+   -1.9002
+   -4.6762
+   -2.6578
+   -2.6578
+   -3.8255
+   -1.9002
+   -5.9354
+   -1.9002
+   -5.0365
+   -2.6578
+   -5.8872
+   -4.1242
+   -5.3351
+   -2.6578
+   -1.9002
+   -2.6578
+   -5.0365
+   -6.9070
+   -4.1242
+   -3.2581
+   -4.1242
+   -4.0759
+   -2.6578
+   -5.3610
+  -14.0498
+   -3.4462
+   -4.1242
+   -3.2581
+   -4.5775
+  -12.9478
+   -3.2581
+   -4.5775
+   -1.9002
+   -2.6578
+   -2.6578
+   -4.6762
+   -2.6578
+   -2.6578
+   -1.9002
+   -2.6578
+   -5.2869
+   -4.6762
+   -8.0623
+   -8.0623
+   -4.7244
+   -4.5775
+   -1.9002
+   -1.9002
+   -4.5775
+   -3.3665
+   -6.3898
+   -5.3351
+   -1.9002
+   -5.2869
+   -1.9002
+  -10.0804
+   -5.3351
+   -4.5775
+   -2.6578
+   -5.2869
+   -4.5775
+   -3.1111
+   -6.0753
+   -4.7244
+   -4.1242
+   -5.9354
+   -4.5293
+   -7.1283
+   -2.6578
+   -3.3183
+   -3.3183
+   -3.8255
+   -3.8255
+   -4.7244
+   -6.1235
+   -3.1111
+   -4.5775
+   -4.4690
+   -8.3989
+   -4.5293
+   -4.5775
+   -4.5775
+   -4.9234
+   -4.1500
+   -4.5293
+   -4.5293
+   -1.9002
+   -5.2437
+   -2.6578
+   -3.3183
+   -1.9002
+   -3.1111
+   -6.3416
+   -5.2437
+   -4.5775
+   -4.9234
+   -4.1242
+   -4.9234
+   -4.5775
+   -4.0759
+   -4.5293
+   -6.1235
+   -5.9354
+   -4.9234
+   -1.9002
+   -1.9002
+   -1.9002
+   -3.3183
+   -1.9002
+   -6.8237
+   -3.1111
+   -5.4116
+   -7.4936
+   -1.9002
+   -4.5775
+   -7.9309
+  -11.0515
+  -11.0515
+   -1.9002
+   -9.4899
+  -10.8979
+   -5.1318
+   -7.9309
+   -3.4462
+   -4.6762
+   -3.3183
+  -10.8931
+  -13.0334
+   -8.2513
+   -2.6578
+   -9.9583
+   -3.1111
+   -6.5029
+   -8.2513
+   -7.1708
+   -4.8643
+   -4.6762
+   -9.2670
+   -8.5872
+  -10.8931
+   -2.6578
+   -3.3665
+   -9.8673
+   -1.9002
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_39005.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_39005.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 3.493950 seconds.
+
+Timestamp 30-Oct-2018 19:07:03
+pMakeSCFGModels: Analyzing motif group HL_39334.1
+
+OwnScores =
+
+   -6.7685
+   -7.9317
+   -6.3133
+   -8.8532
+   -6.3659
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_39334.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_39334.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.496376 seconds.
+
+Timestamp 30-Oct-2018 19:07:03
+pMakeSCFGModels: Analyzing motif group HL_39778.1
+
+OwnScores =
+
+   -5.3868
+   -5.0503
+   -5.1421
+   -8.9011
+   -8.5002
+   -5.1421
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_39778.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_39778.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.269279 seconds.
+
+Timestamp 30-Oct-2018 19:07:04
+pMakeSCFGModels: Analyzing motif group HL_40065.1
+
+OwnScores =
+
+   -5.8846
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_40065.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_40065.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.202969 seconds.
+
+Timestamp 30-Oct-2018 19:07:04
+pMakeSCFGModels: Analyzing motif group HL_40428.1
+
+OwnScores =
+
+   -9.7057
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_40428.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_40428.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.184484 seconds.
+
+Timestamp 30-Oct-2018 19:07:04
+pMakeSCFGModels: Analyzing motif group HL_40469.1
+
+OwnScores =
+
+   -4.9599
+   -4.2668
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_40469.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_40469.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.196059 seconds.
+
+Timestamp 30-Oct-2018 19:07:04
+pMakeSCFGModels: Analyzing motif group HL_41285.1
+
+OwnScores =
+
+   -4.3906
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_41285.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_41285.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.205699 seconds.
+
+Timestamp 30-Oct-2018 19:07:05
+pMakeSCFGModels: Analyzing motif group HL_41778.1
+
+OwnScores =
+
+   -7.8772
+   -7.8772
+   -7.8772
+  -10.9417
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_41778.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_41778.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.361038 seconds.
+
+Timestamp 30-Oct-2018 19:07:05
+pMakeSCFGModels: Analyzing motif group HL_42211.1
+
+OwnScores =
+
+  -10.2724
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_42211.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_42211.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.245967 seconds.
+
+Timestamp 30-Oct-2018 19:07:05
+pMakeSCFGModels: Analyzing motif group HL_42671.1
+
+OwnScores =
+
+   -8.7378
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_42671.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_42671.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.305626 seconds.
+
+Timestamp 30-Oct-2018 19:07:05
+pMakeSCFGModels: Analyzing motif group HL_43026.1
+
+OwnScores =
+
+   -4.9032
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_43026.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_43026.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.323052 seconds.
+
+Timestamp 30-Oct-2018 19:07:06
+pMakeSCFGModels: Analyzing motif group HL_43613.1
+
+OwnScores =
+
+   -6.0660
+   -6.9700
+   -7.5589
+   -5.8989
+   -6.5180
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_43613.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_43613.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.402910 seconds.
+
+Timestamp 30-Oct-2018 19:07:06
+pMakeSCFGModels: Analyzing motif group HL_44221.1
+
+OwnScores =
+
+   -6.5408
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_44221.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_44221.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.287151 seconds.
+
+Timestamp 30-Oct-2018 19:07:06
+pMakeSCFGModels: Analyzing motif group HL_44769.1
+
+OwnScores =
+
+   -6.4800
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_44769.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_44769.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.214730 seconds.
+
+Timestamp 30-Oct-2018 19:07:07
+pMakeSCFGModels: Analyzing motif group HL_44911.1
+
+OwnScores =
+
+   -5.2883
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_44911.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_44911.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.224687 seconds.
+
+Timestamp 30-Oct-2018 19:07:07
+pMakeSCFGModels: Analyzing motif group HL_44933.1
+
+OwnScores =
+
+   -8.7685
+   -8.2966
+   -5.5025
+   -6.3269
+   -7.4914
+   -5.8031
+   -5.5667
+   -5.5667
+   -7.6218
+   -7.3642
+   -6.8176
+   -6.1133
+   -9.1308
+  -11.1694
+  -10.8062
+   -7.6218
+  -10.2526
+  -11.6042
+  -11.6042
+   -7.8926
+   -7.9556
+   -8.9460
+   -5.5667
+   -7.8926
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_44933.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_44933.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.776057 seconds.
+
+Timestamp 30-Oct-2018 19:07:08
+pMakeSCFGModels: Analyzing motif group HL_46142.1
+
+OwnScores =
+
+  -10.3536
+   -9.0601
+  -10.8714
+  -11.0780
+   -7.9028
+   -8.6164
+   -8.3548
+  -13.2565
+   -8.8594
+   -9.3652
+  -11.5125
+  -11.4958
+   -8.5674
+   -8.8594
+   -9.1043
+  -13.8011
+  -13.8245
+  -16.2758
+  -13.5200
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_46142.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_46142.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.536606 seconds.
+
+Timestamp 30-Oct-2018 19:07:08
+pMakeSCFGModels: Analyzing motif group HL_46303.1
+
+OwnScores =
+
+   -7.1834
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_46303.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_46303.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.214372 seconds.
+
+Timestamp 30-Oct-2018 19:07:08
+pMakeSCFGModels: Analyzing motif group HL_46463.1
+
+OwnScores =
+
+   -3.9651
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_46463.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_46463.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.185012 seconds.
+
+Timestamp 30-Oct-2018 19:07:09
+pMakeSCFGModels: Analyzing motif group HL_48376.1
+
+OwnScores =
+
+   -6.3495
+   -6.3495
+   -6.8603
+   -7.4189
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_48376.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_48376.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.357470 seconds.
+
+Timestamp 30-Oct-2018 19:07:09
+pMakeSCFGModels: Analyzing motif group HL_48698.1
+
+OwnScores =
+
+   -5.0817
+   -5.0817
+   -6.5612
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_48698.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_48698.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.258483 seconds.
+
+Timestamp 30-Oct-2018 19:07:09
+pMakeSCFGModels: Analyzing motif group HL_49078.1
+
+OwnScores =
+
+   -5.0530
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_49078.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_49078.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.268297 seconds.
+
+Timestamp 30-Oct-2018 19:07:10
+pMakeSCFGModels: Analyzing motif group HL_49196.1
+
+OwnScores =
+
+   -6.2474
+   -6.2474
+   -6.2474
+  -10.1951
+   -6.3649
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_49196.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_49196.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.324579 seconds.
+
+Timestamp 30-Oct-2018 19:07:10
+pMakeSCFGModels: Analyzing motif group HL_49711.1
+
+OwnScores =
+
+   -5.8078
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_49711.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_49711.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.218361 seconds.
+
+Timestamp 30-Oct-2018 19:07:10
+pMakeSCFGModels: Analyzing motif group HL_49816.1
+
+OwnScores =
+
+   -4.9116
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_49816.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_49816.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.216083 seconds.
+
+Timestamp 30-Oct-2018 19:07:10
+pMakeSCFGModels: Analyzing motif group HL_49873.1
+
+OwnScores =
+
+   -9.3756
+   -8.2770
+  -11.0539
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_49873.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_49873.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.460965 seconds.
+
+Timestamp 30-Oct-2018 19:07:11
+pMakeSCFGModels: Analyzing motif group HL_49982.1
+
+OwnScores =
+
+   -8.8677
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_49982.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_49982.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.192708 seconds.
+
+Timestamp 30-Oct-2018 19:07:11
+pMakeSCFGModels: Analyzing motif group HL_50308.1
+
+OwnScores =
+
+   -6.5676
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_50308.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_50308.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.204396 seconds.
+
+Timestamp 30-Oct-2018 19:07:11
+pMakeSCFGModels: Analyzing motif group HL_50537.1
+
+OwnScores =
+
+   -3.7603
+   -3.7603
+   -3.7603
+   -3.8657
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_50537.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_50537.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.304573 seconds.
+
+Timestamp 30-Oct-2018 19:07:11
+pMakeSCFGModels: Analyzing motif group HL_50622.1
+
+OwnScores =
+
+  -12.1460
+  -10.6135
+  -10.5460
+  -11.3839
+  -10.5366
+  -13.6694
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_50622.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_50622.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.380641 seconds.
+
+Timestamp 30-Oct-2018 19:07:12
+pMakeSCFGModels: Analyzing motif group HL_50959.1
+
+OwnScores =
+
+   -4.6516
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_50959.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_50959.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.191060 seconds.
+
+Timestamp 30-Oct-2018 19:07:12
+pMakeSCFGModels: Analyzing motif group HL_50967.1
+
+OwnScores =
+
+   -4.4216
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_50967.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_50967.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.192366 seconds.
+
+Timestamp 30-Oct-2018 19:07:12
+pMakeSCFGModels: Analyzing motif group HL_51090.1
+
+OwnScores =
+
+  -10.1546
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_51090.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_51090.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.266369 seconds.
+
+Timestamp 30-Oct-2018 19:07:12
+pMakeSCFGModels: Analyzing motif group HL_51284.1
+
+OwnScores =
+
+   -7.0758
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_51284.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_51284.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.207269 seconds.
+
+Timestamp 30-Oct-2018 19:07:13
+pMakeSCFGModels: Analyzing motif group HL_51476.1
+
+OwnScores =
+
+   -5.4084
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_51476.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_51476.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.265495 seconds.
+
+Timestamp 30-Oct-2018 19:07:13
+pMakeSCFGModels: Analyzing motif group HL_52657.1
+
+OwnScores =
+
+  -11.6609
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_52657.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_52657.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.421674 seconds.
+
+Timestamp 30-Oct-2018 19:07:13
+pMakeSCFGModels: Analyzing motif group HL_52998.1
+
+OwnScores =
+
+   -8.5621
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_52998.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_52998.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.204491 seconds.
+
+Timestamp 30-Oct-2018 19:07:14
+pMakeSCFGModels: Analyzing motif group HL_53119.1
+
+OwnScores =
+
+   -8.0182
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_53119.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_53119.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.216369 seconds.
+
+Timestamp 30-Oct-2018 19:07:14
+pMakeSCFGModels: Analyzing motif group HL_53849.1
+
+OwnScores =
+
+   -7.8841
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_53849.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_53849.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.414541 seconds.
+
+Timestamp 30-Oct-2018 19:07:14
+pMakeSCFGModels: Analyzing motif group HL_54035.1
+
+OwnScores =
+
+   -4.8817
+   -4.2939
+   -4.2939
+   -4.8844
+   -5.1371
+   -5.1371
+   -4.8844
+  -12.7231
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_54035.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_54035.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.396785 seconds.
+
+Timestamp 30-Oct-2018 19:07:15
+pMakeSCFGModels: Analyzing motif group HL_54376.1
+
+OwnScores =
+
+   -6.7211
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_54376.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_54376.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.204705 seconds.
+
+Timestamp 30-Oct-2018 19:07:15
+pMakeSCFGModels: Analyzing motif group HL_54616.1
+
+OwnScores =
+
+   -4.9082
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_54616.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_54616.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.265072 seconds.
+
+Timestamp 30-Oct-2018 19:07:15
+pMakeSCFGModels: Analyzing motif group HL_55046.1
+
+OwnScores =
+
+   -4.5180
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_55046.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_55046.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.193982 seconds.
+
+Timestamp 30-Oct-2018 19:07:15
+pMakeSCFGModels: Analyzing motif group HL_55200.1
+
+OwnScores =
+
+   -5.8975
+   -7.3212
+   -6.2630
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_55200.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_55200.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.268768 seconds.
+
+Timestamp 30-Oct-2018 19:07:16
+pMakeSCFGModels: Analyzing motif group HL_55264.1
+
+OwnScores =
+
+   -5.2785
+   -5.2785
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_55264.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_55264.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.239452 seconds.
+
+Timestamp 30-Oct-2018 19:07:16
+pMakeSCFGModels: Analyzing motif group HL_56372.1
+
+OwnScores =
+
+   -5.0837
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_56372.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_56372.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.186307 seconds.
+
+Timestamp 30-Oct-2018 19:07:16
+pMakeSCFGModels: Analyzing motif group HL_56500.1
+
+OwnScores =
+
+   -7.6945
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_56500.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_56500.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.303129 seconds.
+
+Timestamp 30-Oct-2018 19:07:16
+pMakeSCFGModels: Analyzing motif group HL_56576.1
+
+OwnScores =
+
+   -8.2662
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_56576.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_56576.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.262036 seconds.
+
+Timestamp 30-Oct-2018 19:07:17
+pMakeSCFGModels: Analyzing motif group HL_56606.1
+
+OwnScores =
+
+   -6.7021
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_56606.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_56606.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.255151 seconds.
+
+Timestamp 30-Oct-2018 19:07:17
+pMakeSCFGModels: Analyzing motif group HL_56677.1
+
+OwnScores =
+
+   -5.9541
+   -7.0269
+   -5.9541
+   -5.9541
+   -5.9541
+   -9.4609
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_56677.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_56677.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.889300 seconds.
+
+Timestamp 30-Oct-2018 19:07:18
+pMakeSCFGModels: Analyzing motif group HL_57052.1
+
+OwnScores =
+
+   -2.8047
+   -2.8047
+   -2.8047
+   -2.8047
+   -5.0595
+   -5.2026
+   -4.1040
+   -4.2711
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_57052.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_57052.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.234749 seconds.
+
+Timestamp 30-Oct-2018 19:07:18
+pMakeSCFGModels: Analyzing motif group HL_57065.1
+
+OwnScores =
+
+   -6.0175
+   -6.0175
+   -6.2646
+   -7.5654
+   -8.0564
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_57065.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_57065.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.289933 seconds.
+
+Timestamp 30-Oct-2018 19:07:18
+pMakeSCFGModels: Analyzing motif group HL_57661.1
+
+OwnScores =
+
+   -6.4315
+   -5.5697
+   -5.5340
+   -6.3058
+   -6.3058
+   -6.6189
+   -5.3721
+   -7.0258
+   -5.2020
+   -5.5340
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_57661.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_57661.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.403104 seconds.
+
+Timestamp 30-Oct-2018 19:07:19
+pMakeSCFGModels: Analyzing motif group HL_58200.1
+
+OwnScores =
+
+   -7.0681
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_58200.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_58200.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.201353 seconds.
+
+Timestamp 30-Oct-2018 19:07:19
+pMakeSCFGModels: Analyzing motif group HL_58446.1
+
+OwnScores =
+
+   -7.8693
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_58446.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_58446.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.325988 seconds.
+
+Timestamp 30-Oct-2018 19:07:19
+pMakeSCFGModels: Analyzing motif group HL_58539.1
+
+OwnScores =
+
+   -9.7428
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_58539.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_58539.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.418582 seconds.
+
+Timestamp 30-Oct-2018 19:07:20
+pMakeSCFGModels: Analyzing motif group HL_58733.1
+
+OwnScores =
+
+  -10.5211
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_58733.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_58733.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.233118 seconds.
+
+Timestamp 30-Oct-2018 19:07:20
+pMakeSCFGModels: Analyzing motif group HL_58853.1
+
+OwnScores =
+
+   -5.5452
+   -5.5452
+   -9.2019
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_58853.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_58853.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.309472 seconds.
+
+Timestamp 30-Oct-2018 19:07:20
+pMakeSCFGModels: Analyzing motif group HL_59158.1
+
+OwnScores =
+
+   -5.7682
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_59158.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_59158.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.243327 seconds.
+
+Timestamp 30-Oct-2018 19:07:20
+pMakeSCFGModels: Analyzing motif group HL_59445.1
+
+OwnScores =
+
+   -4.9961
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_59445.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_59445.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.201847 seconds.
+
+Timestamp 30-Oct-2018 19:07:21
+pMakeSCFGModels: Analyzing motif group HL_59564.1
+
+OwnScores =
+
+  -15.5353
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_59564.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_59564.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.418309 seconds.
+
+Timestamp 30-Oct-2018 19:07:21
+pMakeSCFGModels: Analyzing motif group HL_59710.1
+
+OwnScores =
+
+   -5.8992
+   -5.8992
+   -5.3524
+   -5.3524
+   -5.3524
+   -5.3524
+   -6.1618
+   -7.0717
+   -6.5911
+   -7.6826
+   -9.2795
+   -9.2795
+   -5.1017
+   -6.9321
+   -4.3975
+   -4.3975
+   -5.5043
+   -5.3449
+   -5.3449
+   -8.4180
+   -5.8992
+   -5.8992
+   -7.0717
+   -4.3975
+   -6.1618
+   -7.3039
+   -6.8977
+   -6.8977
+   -6.6726
+  -12.9955
+   -5.5956
+   -5.5956
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_59710.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_59710.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.890319 seconds.
+
+Timestamp 30-Oct-2018 19:07:22
+pMakeSCFGModels: Analyzing motif group HL_59988.1
+
+OwnScores =
+
+   -7.5782
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_59988.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_59988.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.306291 seconds.
+
+Timestamp 30-Oct-2018 19:07:22
+pMakeSCFGModels: Analyzing motif group HL_60695.1
+
+OwnScores =
+
+   -3.7990
+   -4.7712
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_60695.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_60695.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.266631 seconds.
+
+Timestamp 30-Oct-2018 19:07:22
+pMakeSCFGModels: Analyzing motif group HL_61818.1
+
+OwnScores =
+
+   -4.6246
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_61818.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_61818.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.257079 seconds.
+
+Timestamp 30-Oct-2018 19:07:23
+pMakeSCFGModels: Analyzing motif group HL_61893.1
+
+OwnScores =
+
+   -3.8899
+   -3.8899
+   -3.8910
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_61893.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_61893.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.221789 seconds.
+
+Timestamp 30-Oct-2018 19:07:23
+pMakeSCFGModels: Analyzing motif group HL_61984.1
+
+OwnScores =
+
+   -4.0077
+   -4.0077
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_61984.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_61984.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.180624 seconds.
+
+Timestamp 30-Oct-2018 19:07:23
+pMakeSCFGModels: Analyzing motif group HL_62715.1
+
+OwnScores =
+
+   -5.5216
+   -5.5107
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_62715.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_62715.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.249594 seconds.
+
+Timestamp 30-Oct-2018 19:07:23
+pMakeSCFGModels: Analyzing motif group HL_62869.1
+
+OwnScores =
+
+   -3.4790
+   -2.6317
+   -2.6317
+   -2.6317
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_62869.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_62869.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.220734 seconds.
+
+Timestamp 30-Oct-2018 19:07:24
+pMakeSCFGModels: Analyzing motif group HL_63699.1
+
+OwnScores =
+
+   -4.0786
+   -4.0786
+   -4.0786
+   -5.9329
+   -4.0786
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_63699.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_63699.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.321873 seconds.
+
+Timestamp 30-Oct-2018 19:07:24
+pMakeSCFGModels: Analyzing motif group HL_64328.1
+
+OwnScores =
+
+   -7.5888
+   -7.5888
+   -7.2072
+   -7.3258
+   -7.3258
+   -7.3258
+   -8.2933
+   -8.2933
+   -8.0634
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_64328.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_64328.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.398584 seconds.
+
+Timestamp 30-Oct-2018 19:07:24
+pMakeSCFGModels: Analyzing motif group HL_65304.1
+
+OwnScores =
+
+   -4.3030
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_65304.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_65304.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.180753 seconds.
+
+Timestamp 30-Oct-2018 19:07:24
+pMakeSCFGModels: Analyzing motif group HL_65532.1
+
+OwnScores =
+
+  -11.4155
+   -9.6994
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_65532.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_65532.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.294508 seconds.
+
+Timestamp 30-Oct-2018 19:07:25
+pMakeSCFGModels: Analyzing motif group HL_66064.1
+
+OwnScores =
+
+   -5.4612
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_66064.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_66064.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.208865 seconds.
+
+Timestamp 30-Oct-2018 19:07:25
+pMakeSCFGModels: Analyzing motif group HL_66621.1
+
+OwnScores =
+
+   -6.6797
+   -7.7592
+   -8.1448
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_66621.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_66621.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.358231 seconds.
+
+Timestamp 30-Oct-2018 19:07:25
+pMakeSCFGModels: Analyzing motif group HL_67216.1
+
+OwnScores =
+
+   -3.2695
+   -3.2695
+   -3.2695
+   -3.2695
+   -3.4445
+   -4.7090
+   -8.6281
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_67216.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_67216.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.355406 seconds.
+
+Timestamp 30-Oct-2018 19:07:26
+pMakeSCFGModels: Analyzing motif group HL_67265.1
+
+OwnScores =
+
+   -6.6362
+   -8.1025
+   -6.3450
+   -6.3450
+   -9.2875
+   -8.7766
+  -10.2430
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_67265.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_67265.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.450983 seconds.
+
+Timestamp 30-Oct-2018 19:07:26
+pMakeSCFGModels: Analyzing motif group HL_67634.1
+
+OwnScores =
+
+  -10.8688
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_67634.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_67634.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.259564 seconds.
+
+Timestamp 30-Oct-2018 19:07:26
+pMakeSCFGModels: Analyzing motif group HL_68304.1
+
+OwnScores =
+
+   -6.1400
+   -5.2927
+   -7.2044
+   -7.3943
+   -7.0578
+   -6.1400
+   -7.2917
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_68304.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_68304.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.319757 seconds.
+
+Timestamp 30-Oct-2018 19:07:27
+pMakeSCFGModels: Analyzing motif group HL_68478.1
+
+OwnScores =
+
+   -3.9545
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_68478.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_68478.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.184513 seconds.
+
+Timestamp 30-Oct-2018 19:07:27
+pMakeSCFGModels: Analyzing motif group HL_68493.1
+
+OwnScores =
+
+   -5.4686
+   -4.9891
+   -4.8321
+   -4.9891
+   -6.2158
+   -7.2929
+   -6.2985
+   -6.2158
+   -7.3444
+   -7.8728
+   -9.5580
+   -4.9891
+   -9.5038
+  -10.1941
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_68493.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_68493.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.478757 seconds.
+
+Timestamp 30-Oct-2018 19:07:27
+pMakeSCFGModels: Analyzing motif group HL_68529.1
+
+OwnScores =
+
+   -3.8877
+   -3.8877
+   -3.8877
+   -4.7350
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_68529.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_68529.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.210312 seconds.
+
+Timestamp 30-Oct-2018 19:07:28
+pMakeSCFGModels: Analyzing motif group HL_68644.1
+
+OwnScores =
+
+   -4.4007
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_68644.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_68644.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.182456 seconds.
+
+Timestamp 30-Oct-2018 19:07:28
+pMakeSCFGModels: Analyzing motif group HL_68863.1
+
+OwnScores =
+
+   -9.3726
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_68863.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_68863.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.215504 seconds.
+
+Timestamp 30-Oct-2018 19:07:28
+pMakeSCFGModels: Analyzing motif group HL_69353.1
+
+OwnScores =
+
+   -3.0451
+   -3.0451
+   -3.0451
+   -4.1132
+   -3.5917
+   -4.3538
+   -4.6597
+   -3.5917
+   -3.0451
+   -7.5931
+   -3.8073
+  -10.1539
+   -7.1227
+   -4.8910
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_69353.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_69353.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.272933 seconds.
+
+Timestamp 30-Oct-2018 19:07:28
+pMakeSCFGModels: Analyzing motif group HL_69459.1
+
+OwnScores =
+
+   -6.1311
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_69459.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_69459.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.204374 seconds.
+
+Timestamp 30-Oct-2018 19:07:28
+pMakeSCFGModels: Analyzing motif group HL_69774.1
+
+OwnScores =
+
+   -5.1874
+   -5.1874
+   -5.6114
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_69774.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_69774.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.271901 seconds.
+
+Timestamp 30-Oct-2018 19:07:29
+pMakeSCFGModels: Analyzing motif group HL_69811.1
+
+OwnScores =
+
+  -12.9713
+   -7.1997
+   -6.6119
+   -7.1997
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_69811.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_69811.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.294754 seconds.
+
+Timestamp 30-Oct-2018 19:07:29
+pMakeSCFGModels: Analyzing motif group HL_69941.1
+
+OwnScores =
+
+   -5.3250
+   -5.3255
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_69941.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_69941.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.183769 seconds.
+
+Timestamp 30-Oct-2018 19:07:29
+pMakeSCFGModels: Analyzing motif group HL_70929.1
+
+OwnScores =
+
+   -4.7923
+   -4.7923
+   -4.7923
+   -4.7923
+   -8.7420
+   -8.6128
+   -8.1260
+   -8.1260
+  -13.9607
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_70929.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_70929.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.505483 seconds.
+
+Timestamp 30-Oct-2018 19:07:30
+pMakeSCFGModels: Analyzing motif group HL_71546.1
+
+OwnScores =
+
+   -5.0791
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_71546.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_71546.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.261322 seconds.
+
+Timestamp 30-Oct-2018 19:07:30
+pMakeSCFGModels: Analyzing motif group HL_71636.1
+
+OwnScores =
+
+   -6.5010
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_71636.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_71636.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.204498 seconds.
+
+Timestamp 30-Oct-2018 19:07:30
+pMakeSCFGModels: Analyzing motif group HL_72066.1
+
+OwnScores =
+
+   -4.9639
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_72066.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_72066.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.247963 seconds.
+
+Timestamp 30-Oct-2018 19:07:30
+pMakeSCFGModels: Analyzing motif group HL_72152.1
+
+OwnScores =
+
+   -7.1026
+   -6.3750
+  -10.6582
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_72152.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_72152.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.208390 seconds.
+
+Timestamp 30-Oct-2018 19:07:31
+pMakeSCFGModels: Analyzing motif group HL_72419.1
+
+OwnScores =
+
+   -7.3621
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_72419.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_72419.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.319015 seconds.
+
+Timestamp 30-Oct-2018 19:07:31
+pMakeSCFGModels: Analyzing motif group HL_72451.1
+
+OwnScores =
+
+   -2.7054
+   -2.7054
+   -2.7054
+   -5.5593
+   -2.7054
+   -4.0047
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_72451.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_72451.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.285967 seconds.
+
+Timestamp 30-Oct-2018 19:07:31
+pMakeSCFGModels: Analyzing motif group HL_73235.1
+
+OwnScores =
+
+   -7.2707
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_73235.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_73235.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.201271 seconds.
+
+Timestamp 30-Oct-2018 19:07:31
+pMakeSCFGModels: Analyzing motif group HL_73266.1
+
+OwnScores =
+
+   -5.2108
+   -5.2108
+   -5.0933
+   -5.0933
+   -5.0933
+   -5.2108
+   -5.5603
+   -5.0933
+   -5.0933
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_73266.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_73266.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.499588 seconds.
+
+Timestamp 30-Oct-2018 19:07:32
+pMakeSCFGModels: Analyzing motif group HL_73318.1
+
+OwnScores =
+
+   -8.6616
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_73318.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_73318.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.284958 seconds.
+
+Timestamp 30-Oct-2018 19:07:32
+pMakeSCFGModels: Analyzing motif group HL_74088.1
+
+OwnScores =
+
+   -9.9637
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_74088.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_74088.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.919847 seconds.
+
+Timestamp 30-Oct-2018 19:07:33
+pMakeSCFGModels: Analyzing motif group HL_74592.1
+
+OwnScores =
+
+   -4.3441
+   -4.1454
+   -6.5289
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_74592.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_74592.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.211736 seconds.
+
+Timestamp 30-Oct-2018 19:07:33
+pMakeSCFGModels: Analyzing motif group HL_75091.1
+
+OwnScores =
+
+  -12.0761
+  -11.4529
+   -9.8792
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_75091.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_75091.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.333696 seconds.
+
+Timestamp 30-Oct-2018 19:07:34
+pMakeSCFGModels: Analyzing motif group HL_75338.1
+pConsensusPairSubstitution:  New 4x4 substitution matrix for instance 1 of 1, pair 3,5 for nucleotide 3 (G) making self BPh with edge 1
+
+OwnScores =
+
+   -4.9501
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_75338.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_75338.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.302315 seconds.
+
+Timestamp 30-Oct-2018 19:07:34
+pMakeSCFGModels: Analyzing motif group HL_76360.1
+
+OwnScores =
+
+   -4.3906
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_76360.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_76360.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.186924 seconds.
+
+Timestamp 30-Oct-2018 19:07:34
+pMakeSCFGModels: Analyzing motif group HL_76406.1
+
+OwnScores =
+
+   -5.7971
+   -5.7343
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_76406.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_76406.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.291059 seconds.
+
+Timestamp 30-Oct-2018 19:07:34
+pMakeSCFGModels: Analyzing motif group HL_77215.1
+
+OwnScores =
+
+   -6.1062
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_77215.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_77215.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.225697 seconds.
+
+Timestamp 30-Oct-2018 19:07:35
+pMakeSCFGModels: Analyzing motif group HL_78061.1
+
+OwnScores =
+
+   -5.3391
+   -5.3391
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_78061.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_78061.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.296357 seconds.
+
+Timestamp 30-Oct-2018 19:07:35
+pMakeSCFGModels: Analyzing motif group HL_78457.1
+
+OwnScores =
+
+   -4.6530
+   -4.6530
+   -4.6530
+   -4.6530
+   -6.1193
+  -11.3036
+   -6.7822
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_78457.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_78457.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.437892 seconds.
+
+Timestamp 30-Oct-2018 19:07:35
+pMakeSCFGModels: Analyzing motif group HL_78718.1
+
+OwnScores =
+
+   -4.7217
+   -4.7217
+   -5.8843
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_78718.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_78718.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.301469 seconds.
+
+Timestamp 30-Oct-2018 19:07:36
+pMakeSCFGModels: Analyzing motif group HL_78869.1
+
+OwnScores =
+
+   -3.6004
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_78869.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_78869.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.192759 seconds.
+
+Timestamp 30-Oct-2018 19:07:36
+pMakeSCFGModels: Analyzing motif group HL_79299.1
+
+OwnScores =
+
+   -2.0231
+   -2.0231
+   -2.0231
+   -2.0231
+   -2.0231
+   -2.0231
+   -2.0231
+   -2.0231
+   -2.0231
+   -2.0231
+   -2.0231
+   -2.0231
+   -2.0231
+   -2.0231
+   -2.0231
+   -2.0231
+   -2.0231
+   -2.0231
+   -3.3643
+   -2.0231
+   -3.3643
+   -8.5663
+   -2.0231
+   -2.0231
+   -3.3643
+   -2.0231
+   -3.3643
+   -4.0003
+   -2.0231
+   -2.0231
+   -3.3643
+   -3.3643
+   -2.9869
+   -2.0231
+   -2.0231
+   -6.3813
+   -5.7878
+   -8.8048
+   -2.0231
+   -2.0231
+  -11.8300
+  -12.5273
+   -2.9869
+   -6.3813
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_79299.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_79299.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.726725 seconds.
+
+Timestamp 30-Oct-2018 19:07:37
+pMakeSCFGModels: Analyzing motif group HL_80325.1
+
+OwnScores =
+
+   -8.1311
+   -7.5682
+   -8.5288
+   -9.6977
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_80325.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_80325.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.352034 seconds.
+
+Timestamp 30-Oct-2018 19:07:37
+pMakeSCFGModels: Analyzing motif group HL_80477.1
+
+OwnScores =
+
+   -5.8399
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_80477.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_80477.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.312418 seconds.
+
+Timestamp 30-Oct-2018 19:07:37
+pMakeSCFGModels: Analyzing motif group HL_80705.1
+
+OwnScores =
+
+   -5.6345
+   -6.8385
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_80705.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_80705.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.289601 seconds.
+
+Timestamp 30-Oct-2018 19:07:38
+pMakeSCFGModels: Analyzing motif group HL_81205.1
+
+OwnScores =
+
+   -5.7721
+   -5.7761
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_81205.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_81205.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.433779 seconds.
+
+Timestamp 30-Oct-2018 19:07:38
+pMakeSCFGModels: Analyzing motif group HL_81439.1
+
+OwnScores =
+
+   -3.6476
+   -3.7010
+   -5.2506
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_81439.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_81439.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.256465 seconds.
+
+Timestamp 30-Oct-2018 19:07:38
+pMakeSCFGModels: Analyzing motif group HL_81814.1
+
+OwnScores =
+
+  -13.1140
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_81814.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_81814.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.525057 seconds.
+
+Timestamp 30-Oct-2018 19:07:39
+pMakeSCFGModels: Analyzing motif group HL_81820.1
+
+OwnScores =
+
+   -7.7381
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_81820.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_81820.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.454072 seconds.
+
+Timestamp 30-Oct-2018 19:07:39
+pMakeSCFGModels: Analyzing motif group HL_81930.1
+
+OwnScores =
+
+   -9.9617
+   -7.5803
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_81930.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_81930.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.269054 seconds.
+
+Timestamp 30-Oct-2018 19:07:40
+pMakeSCFGModels: Analyzing motif group HL_82667.1
+
+OwnScores =
+
+   -7.7898
+   -9.8508
+   -8.3776
+  -14.9693
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_82667.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_82667.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.296588 seconds.
+
+Timestamp 30-Oct-2018 19:07:40
+pMakeSCFGModels: Analyzing motif group HL_82678.1
+
+OwnScores =
+
+   -4.5273
+   -4.5273
+   -7.5663
+   -5.6259
+   -5.0381
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_82678.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_82678.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.249133 seconds.
+
+Timestamp 30-Oct-2018 19:07:40
+pMakeSCFGModels: Analyzing motif group HL_82782.1
+
+OwnScores =
+
+  -14.5400
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_82782.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_82782.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.396688 seconds.
+
+Timestamp 30-Oct-2018 19:07:40
+pMakeSCFGModels: Analyzing motif group HL_83225.1
+
+OwnScores =
+
+   -4.7348
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_83225.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_83225.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.177012 seconds.
+
+Timestamp 30-Oct-2018 19:07:41
+pMakeSCFGModels: Analyzing motif group HL_85475.1
+
+OwnScores =
+
+   -8.5594
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_85475.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_85475.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.225446 seconds.
+
+Timestamp 30-Oct-2018 19:07:41
+pMakeSCFGModels: Analyzing motif group HL_85984.1
+
+OwnScores =
+
+  -10.2400
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_85984.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_85984.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.338850 seconds.
+
+Timestamp 30-Oct-2018 19:07:41
+pMakeSCFGModels: Analyzing motif group HL_85987.1
+
+OwnScores =
+
+   -5.8333
+   -6.1745
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_85987.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_85987.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.310788 seconds.
+
+Timestamp 30-Oct-2018 19:07:42
+pMakeSCFGModels: Analyzing motif group HL_86097.1
+
+OwnScores =
+
+   -5.7721
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_86097.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_86097.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.278303 seconds.
+
+Timestamp 30-Oct-2018 19:07:42
+pMakeSCFGModels: Analyzing motif group HL_86109.1
+
+OwnScores =
+
+   -6.7421
+   -6.7421
+   -9.4446
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_86109.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_86109.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.359083 seconds.
+
+Timestamp 30-Oct-2018 19:07:42
+pMakeSCFGModels: Analyzing motif group HL_86378.1
+
+OwnScores =
+
+   -6.4057
+   -6.4057
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_86378.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_86378.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.257300 seconds.
+
+Timestamp 30-Oct-2018 19:07:42
+pMakeSCFGModels: Analyzing motif group HL_86769.1
+
+OwnScores =
+
+   -7.5464
+   -8.2114
+   -8.1654
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_86769.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_86769.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.372811 seconds.
+
+Timestamp 30-Oct-2018 19:07:43
+pMakeSCFGModels: Analyzing motif group HL_87042.1
+
+OwnScores =
+
+   -3.4070
+   -3.4070
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_87042.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_87042.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.211994 seconds.
+
+Timestamp 30-Oct-2018 19:07:43
+pMakeSCFGModels: Analyzing motif group HL_87219.1
+
+OwnScores =
+
+   -8.6303
+   -8.6303
+   -9.9904
+   -9.9904
+   -7.6691
+   -7.6691
+  -10.0601
+   -7.6260
+   -7.6260
+  -11.3135
+  -12.1836
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_87219.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_87219.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.530648 seconds.
+
+Timestamp 30-Oct-2018 19:07:44
+pMakeSCFGModels: Analyzing motif group HL_87824.1
+
+OwnScores =
+
+   -7.8738
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_87824.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_87824.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.233806 seconds.
+
+Timestamp 30-Oct-2018 19:07:44
+pMakeSCFGModels: Analyzing motif group HL_88305.1
+
+OwnScores =
+
+   -8.3155
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_88305.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_88305.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.279058 seconds.
+
+Timestamp 30-Oct-2018 19:07:44
+pMakeSCFGModels: Analyzing motif group HL_89082.1
+
+OwnScores =
+
+   -4.7046
+   -4.7046
+   -4.7046
+   -4.7046
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_89082.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_89082.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.393166 seconds.
+
+Timestamp 30-Oct-2018 19:07:44
+pMakeSCFGModels: Analyzing motif group HL_90197.1
+
+OwnScores =
+
+   -3.4476
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_90197.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_90197.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.181953 seconds.
+
+Timestamp 30-Oct-2018 19:07:45
+pMakeSCFGModels: Analyzing motif group HL_90642.1
+
+OwnScores =
+
+   -5.4526
+   -5.4526
+   -8.5468
+   -7.6606
+   -6.7876
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_90642.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_90642.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.324445 seconds.
+
+Timestamp 30-Oct-2018 19:07:45
+pMakeSCFGModels: Analyzing motif group HL_90870.1
+
+OwnScores =
+
+   -6.4839
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_90870.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_90870.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.311078 seconds.
+
+Timestamp 30-Oct-2018 19:07:45
+pMakeSCFGModels: Analyzing motif group HL_90961.1
+
+OwnScores =
+
+   -4.7987
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_90961.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_90961.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.254307 seconds.
+
+Timestamp 30-Oct-2018 19:07:46
+pMakeSCFGModels: Analyzing motif group HL_91131.1
+
+OwnScores =
+
+   -5.6555
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_91131.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_91131.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.241851 seconds.
+
+Timestamp 30-Oct-2018 19:07:46
+pMakeSCFGModels: Analyzing motif group HL_91503.1
+
+OwnScores =
+
+   -6.5110
+   -6.5110
+   -7.7253
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_91503.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_91503.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.265023 seconds.
+
+Timestamp 30-Oct-2018 19:07:46
+pMakeSCFGModels: Analyzing motif group HL_92304.1
+
+OwnScores =
+
+   -4.1334
+   -4.1334
+   -4.1334
+   -4.1334
+   -4.1334
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_92304.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_92304.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.426370 seconds.
+
+Timestamp 30-Oct-2018 19:07:46
+pMakeSCFGModels: Analyzing motif group HL_92488.1
+
+OwnScores =
+
+  -12.1621
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_92488.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_92488.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.395641 seconds.
+
+Timestamp 30-Oct-2018 19:07:47
+pMakeSCFGModels: Analyzing motif group HL_92646.1
+
+OwnScores =
+
+   -5.5459
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_92646.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_92646.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.209903 seconds.
+
+Timestamp 30-Oct-2018 19:07:47
+pMakeSCFGModels: Analyzing motif group HL_92681.1
+
+OwnScores =
+
+   -3.5804
+   -3.9169
+   -3.5804
+   -6.0047
+   -4.3689
+   -5.8894
+  -11.5877
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_92681.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_92681.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.285481 seconds.
+
+Timestamp 30-Oct-2018 19:07:47
+pMakeSCFGModels: Analyzing motif group HL_93005.1
+
+OwnScores =
+
+   -3.7849
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_93005.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_93005.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.181666 seconds.
+
+Timestamp 30-Oct-2018 19:07:48
+pMakeSCFGModels: Analyzing motif group HL_93212.1
+
+OwnScores =
+
+   -6.6206
+   -7.3721
+   -7.7781
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_93212.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_93212.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.244285 seconds.
+
+Timestamp 30-Oct-2018 19:07:48
+pMakeSCFGModels: Analyzing motif group HL_93221.1
+
+OwnScores =
+
+   -9.4351
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_93221.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_93221.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.233782 seconds.
+
+Timestamp 30-Oct-2018 19:07:48
+pMakeSCFGModels: Analyzing motif group HL_93229.1
+
+OwnScores =
+
+   -4.7925
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_93229.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_93229.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.261963 seconds.
+
+Timestamp 30-Oct-2018 19:07:48
+pMakeSCFGModels: Analyzing motif group HL_93551.1
+
+OwnScores =
+
+   -6.8614
+   -7.5545
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_93551.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_93551.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.240298 seconds.
+
+Timestamp 30-Oct-2018 19:07:49
+pMakeSCFGModels: Analyzing motif group HL_93580.1
+
+OwnScores =
+
+   -9.7898
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_93580.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_93580.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.340603 seconds.
+
+Timestamp 30-Oct-2018 19:07:49
+pMakeSCFGModels: Analyzing motif group HL_94352.1
+
+OwnScores =
+
+   -5.2555
+   -7.7549
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_94352.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_94352.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.182381 seconds.
+
+Timestamp 30-Oct-2018 19:07:49
+pMakeSCFGModels: Analyzing motif group HL_94363.1
+
+OwnScores =
+
+   -3.6972
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_94363.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_94363.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.180609 seconds.
+
+Timestamp 30-Oct-2018 19:07:49
+pMakeSCFGModels: Analyzing motif group HL_94607.1
+
+OwnScores =
+
+   -9.1046
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_94607.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_94607.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 3.119934 seconds.
+
+Timestamp 30-Oct-2018 19:07:52
+pMakeSCFGModels: Analyzing motif group HL_94651.1
+
+OwnScores =
+
+   -4.4230
+   -4.4230
+   -4.4230
+   -4.4230
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_94651.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_94651.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.298828 seconds.
+
+Timestamp 30-Oct-2018 19:07:53
+pMakeSCFGModels: Analyzing motif group HL_94657.1
+
+OwnScores =
+
+   -6.6695
+   -7.6322
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_94657.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_94657.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.264203 seconds.
+
+Timestamp 30-Oct-2018 19:07:53
+pMakeSCFGModels: Analyzing motif group HL_96277.1
+
+OwnScores =
+
+   -7.8239
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_96277.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_96277.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.321655 seconds.
+
+Timestamp 30-Oct-2018 19:07:53
+pMakeSCFGModels: Analyzing motif group HL_96524.1
+
+OwnScores =
+
+   -7.1033
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_96524.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_96524.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.255455 seconds.
+
+Timestamp 30-Oct-2018 19:07:53
+pMakeSCFGModels: Analyzing motif group HL_96571.1
+
+OwnScores =
+
+   -7.1941
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_96571.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_96571.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.209530 seconds.
+
+Timestamp 30-Oct-2018 19:07:54
+pMakeSCFGModels: Analyzing motif group HL_98252.1
+
+OwnScores =
+
+   -7.2938
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_98252.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_98252.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.257043 seconds.
+
+Timestamp 30-Oct-2018 19:07:54
+pMakeSCFGModels: Analyzing motif group HL_98557.1
+
+OwnScores =
+
+   -4.6815
+   -3.4578
+   -3.4578
+   -5.9808
+   -4.4782
+  -10.5360
+   -4.4782
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_98557.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_98557.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.220899 seconds.
+
+Timestamp 30-Oct-2018 19:07:54
+pMakeSCFGModels: Analyzing motif group HL_98885.1
+
+OwnScores =
+
+   -5.0363
+   -5.0363
+   -5.5471
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_98885.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_98885.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.265688 seconds.
+
+Timestamp 30-Oct-2018 19:07:54
+pMakeSCFGModels: Analyzing motif group HL_98995.1
+
+OwnScores =
+
+   -4.6600
+   -4.0410
+   -4.0410
+   -5.0301
+   -5.5387
+   -7.8641
+   -5.6482
+   -6.1577
+   -8.0069
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_98995.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_98995.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.280623 seconds.
+
+Timestamp 30-Oct-2018 19:07:55
+pMakeSCFGModels: Analyzing motif group HL_99086.1
+
+OwnScores =
+
+   -9.6670
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_99086.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_99086.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+Elapsed time is 0.387560 seconds.
+
+Timestamp 30-Oct-2018 19:07:55
+pMakeSCFGModels: Analyzing motif group HL_99402.1
+
+OwnScores =
+
+  -12.0370
+   -8.3019
+   -7.4569
+   -7.0433
+   -7.6581
+   -7.6581
+
+
+FastaFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_99402.1.fasta
+
+
+ModelFile =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2\lib\HL_99402.1_model.txt
+
+
+OutputPath =
+
+C:\Users\zirbel\Documents\JAR3D\HL\3.2
+
+
+ans =
+
+        1234
+
+There are 295 motif groups, of which 172 are structured
+[Warning: MATLAB has disabled some advanced graphics rendering features by switching to software OpenGL. For more information, click <a href="matlab:opengl('problems')">here</a>.] 

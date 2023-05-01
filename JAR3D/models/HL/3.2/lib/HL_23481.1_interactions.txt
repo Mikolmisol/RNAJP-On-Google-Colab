@@ -1,0 +1,11 @@
+1 2 s35 
+1 7 cWW 
+2 4 s33 
+2 6 tSH 
+3 4 s35 
+4 5 perp 
+6 7 s35 
+4 3 7BPh
+2 4 7BPh
+2 5 6BPh
+7 6 7BPh

@@ -1,0 +1,34 @@
+<Residues>
+ <Residue name="CGA">
+  <Bond from="-BBC" to="BBP"/>
+  <Bond from="BBP" to="BBC"/>
+  <Bond from="BBC" to="AN9"/>
+  <Bond from="AN9" to="AC2"/>
+  <Bond from="AC2" to="AC6"/>
+  <Bond from="AC6" to="AN9"/>
+ </Residue>
+ <Residue name="CGC">
+  <Bond from="-BBC" to="BBP"/>
+  <Bond from="BBP" to="BBC"/>
+  <Bond from="BBC" to="CN1"/>
+  <Bond from="CN1" to="CC2"/>
+  <Bond from="CC2" to="CC4"/>
+  <Bond from="CC4" to="CN1"/>
+ </Residue>
+ <Residue name="CGG">
+  <Bond from="-BBC" to="BBP"/>
+  <Bond from="BBP" to="BBC"/>
+  <Bond from="BBC" to="GN9"/>
+  <Bond from="GN9" to="GC2"/>
+  <Bond from="GC2" to="GC6"/>
+  <Bond from="GC6" to="GN9"/>
+ </Residue>
+ <Residue name="CGU">
+  <Bond from="-BBC" to="BBP"/>
+  <Bond from="BBP" to="BBC"/>
+  <Bond from="BBC" to="UN1"/>
+  <Bond from="UN1" to="UC2"/>
+  <Bond from="UC2" to="UC4"/>
+  <Bond from="UC4" to="UN1"/>
+ </Residue>
+</Residues>

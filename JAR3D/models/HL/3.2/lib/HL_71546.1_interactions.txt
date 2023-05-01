@@ -1,0 +1,7 @@
+1 2 s35 
+1 7 cWW 
+2 6 bif 
+3 5 perp 
+4 6 perp 
+6 7 s35 
+4 7 7BR

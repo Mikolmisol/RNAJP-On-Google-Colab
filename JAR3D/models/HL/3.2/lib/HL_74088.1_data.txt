@@ -1,0 +1,8 @@
+cWW-s35-s55-cWH-s33-s33-cHW-cWH-s53-s35-cHW-cWH-s53-cWH-s35-cWH-s33-tSW-s55-s55-cHW-s33-cWH-s35-s33-cWH-F-s35-s33-s55-F
+18 nucleotides
+cWW-s35-s55-cWH-s33-s33-cHW-cWH-s53-s35-cHW-cWH-s53-cWH-s35-cWH-s33-tSW-s55-s55-cHW-s33-cWH-s35-s33-cWH-F-s35-s33-s55-F
+12 basepairs
+17 stacks
+0 base-phosphate
+1 base-ribose
+1 instances

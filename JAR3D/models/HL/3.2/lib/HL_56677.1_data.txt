@@ -1,0 +1,8 @@
+cWW-s35-s55-tSH-tWH-s35-tSH-s55-s33-s35-s55-tHW-s35-tHW-s33-tSW-s35-s35-s35-cWH-s53-s35-s35
+13 nucleotides
+cWW-s35-s55-tSH-tWH-s35-tSH-s55-s33-s35-s55-tHW-s35-tHW-s33-tSW-s35-s35-s35-cWH-s53-s35-s35
+8 basepairs
+15 stacks
+1 base-phosphate
+2 base-ribose
+6 instances

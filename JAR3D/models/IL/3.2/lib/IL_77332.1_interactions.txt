@@ -1,0 +1,7 @@
+1 4 perp 
+1 6 cWW 
+2 3 perp 
+4 5 cWW 
+5 6 perp 
+4 3 7BPh
+5 6 2BR

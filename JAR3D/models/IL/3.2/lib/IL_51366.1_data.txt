@@ -1,0 +1,8 @@
+cWW-tWW-L-tWH-R-R-R-R-R-R-R-tHH-tHS-cWW cWW-tSH-tHH-L-R-L-L-L-L-tWH-L-L-tWW-cWW
+20 nucleotides
+cWW-tWW-L-tWH-R-R-R-R-R-R-R-tHH-tHS-cWW cWW-tSH-tHH-L-R-L-L-L-L-tWH-L-L-tWW-cWW
+6 basepairs
+17 stacks
+4 base-phosphate
+2 base-ribose
+1 instances

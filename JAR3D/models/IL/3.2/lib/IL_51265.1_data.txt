@@ -1,0 +1,8 @@
+cWW-tSS-L-tSH-tHS-cWW cWW-tSH-tHS-tSS-R-cWW
+10 nucleotides
+cWW-tSS-L-tSH-tHS-cWW cWW-tSH-tHS-tSS-R-cWW
+5 basepairs
+8 stacks
+0 base-phosphate
+6 base-ribose
+6 instances

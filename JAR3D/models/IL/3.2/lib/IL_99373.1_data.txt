@@ -1,0 +1,8 @@
+cWW-bif-L-cWW cWW-R-bif-cWW
+7 nucleotides
+cWW-bif-L-cWW cWW-R-bif-cWW
+3 basepairs
+5 stacks
+0 base-phosphate
+0 base-ribose
+2 instances

@@ -1,0 +1,8 @@
+cWW-tSH-R-tHS-L-bif-cWW cWW-bif-R-tSH-L-tHS-cWW
+12 nucleotides
+cWW-tSH-R-tHS-L-bif-cWW cWW-bif-R-tSH-L-tHS-cWW
+5 basepairs
+11 stacks
+4 base-phosphate
+2 base-ribose
+5 instances

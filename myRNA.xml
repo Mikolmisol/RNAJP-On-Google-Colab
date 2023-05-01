@@ -1,0 +1,125 @@
+<ForceField>
+  <Info>
+    <DateGenerated>2020-08-17</DateGenerated>
+  </Info>
+  <AtomTypes>
+    <Type element="P" name="RNA-BBP" class="BBP" mass="30.97"/>
+    <Type element="C" name="RNA-BBC" class="BBC" mass="30.97"/>
+    <Type element="Au" name="RNA-AN9" class="AN9" mass="14.01"/>
+    <Type element="Au" name="RNA-AC2" class="AC2" mass="12.01"/>
+    <Type element="Au" name="RNA-AC6" class="AC6" mass="12.01"/>
+    <Type element="Ag" name="RNA-CN1" class="CN1" mass="14.01"/>
+    <Type element="Ag" name="RNA-CC2" class="CC2" mass="12.01"/>
+    <Type element="Ag" name="RNA-CC4" class="CC4" mass="12.01"/>
+    <Type element="Cu" name="RNA-GN9" class="GN9" mass="14.01"/>
+    <Type element="Cu" name="RNA-GC2" class="GC2" mass="12.01"/>
+    <Type element="Cu" name="RNA-GC6" class="GC6" mass="12.01"/>
+    <Type element="Fe" name="RNA-UN1" class="UN1" mass="14.01"/>
+    <Type element="Fe" name="RNA-UC2" class="UC2" mass="12.01"/>
+    <Type element="Fe" name="RNA-UC4" class="UC4" mass="12.01"/>
+  </AtomTypes>
+  <Residues>
+    <Residue name="CGA">
+      <Atom name="BBP" type="RNA-BBP" charge="-1.0"/>
+      <Atom name="BBC" type="RNA-BBC" charge="0.0"/>
+      <Atom name="AN9" type="RNA-AN9" charge="0.0"/>
+      <Atom name="AC2" type="RNA-AC2" charge="0.0"/>
+      <Atom name="AC6" type="RNA-AC6" charge="0.0"/>
+      <Bond atomName1="BBP" atomName2="BBC"/>
+      <Bond atomName1="BBC" atomName2="AN9"/>
+      <Bond atomName1="AN9" atomName2="AC2"/>
+      <Bond atomName1="AC2" atomName2="AC6"/>
+      <Bond atomName1="AC6" atomName2="AN9"/>
+      <ExternalBond atomName="BBP"/>
+      <ExternalBond atomName="BBC"/>
+    </Residue>
+    <Residue name="CGC">
+      <Atom name="BBP" type="RNA-BBP" charge="-1.0"/>
+      <Atom name="BBC" type="RNA-BBC" charge="0.0"/>
+      <Atom name="CN1" type="RNA-CN1" charge="0.0"/>
+      <Atom name="CC2" type="RNA-CC2" charge="0.0"/>
+      <Atom name="CC4" type="RNA-CC4" charge="0.0"/>
+      <Bond atomName1="BBP" atomName2="BBC"/>
+      <Bond atomName1="BBC" atomName2="CN1"/>
+      <Bond atomName1="CN1" atomName2="CC2"/>
+      <Bond atomName1="CC2" atomName2="CC4"/>
+      <Bond atomName1="CC4" atomName2="CN1"/>
+      <ExternalBond atomName="BBP"/>
+      <ExternalBond atomName="BBC"/>
+    </Residue>
+    <Residue name="CGG">
+      <Atom name="BBP" type="RNA-BBP" charge="-1.0"/>
+      <Atom name="BBC" type="RNA-BBC" charge="0.0"/>
+      <Atom name="GN9" type="RNA-GN9" charge="0.0"/>
+      <Atom name="GC2" type="RNA-GC2" charge="0.0"/>
+      <Atom name="GC6" type="RNA-GC6" charge="0.0"/>
+      <Bond atomName1="BBP" atomName2="BBC"/>
+      <Bond atomName1="BBC" atomName2="GN9"/>
+      <Bond atomName1="GN9" atomName2="GC2"/>
+      <Bond atomName1="GC2" atomName2="GC6"/>
+      <Bond atomName1="GC6" atomName2="GN9"/>
+      <ExternalBond atomName="BBP"/>
+      <ExternalBond atomName="BBC"/>
+    </Residue>
+    <Residue name="CGU">
+      <Atom name="BBP" type="RNA-BBP" charge="-1.0"/>
+      <Atom name="BBC" type="RNA-BBC" charge="0.0"/>
+      <Atom name="UN1" type="RNA-UN1" charge="0.0"/>
+      <Atom name="UC2" type="RNA-UC2" charge="0.0"/>
+      <Atom name="UC4" type="RNA-UC4" charge="0.0"/>
+      <Bond atomName1="BBP" atomName2="BBC"/>
+      <Bond atomName1="BBC" atomName2="UN1"/>
+      <Bond atomName1="UN1" atomName2="UC2"/>
+      <Bond atomName1="UC2" atomName2="UC4"/>
+      <Bond atomName1="UC4" atomName2="UN1"/>
+      <ExternalBond atomName="BBP"/>
+      <ExternalBond atomName="BBC"/>
+    </Residue>
+  </Residues>
+  <HarmonicBondForce>
+    <Bond type1="RNA-BBP" type2="RNA-BBC" length="0.38" k="10000."/>
+    <Bond type1="RNA-BBC" type2="RNA-AN9" length="0.34" k="10000."/>
+    <Bond type1="RNA-AN9" type2="RNA-AC2" length="0.35" k="10000."/>
+    <Bond type1="RNA-AC2" type2="RNA-AC6" length="0.24" k="10000."/>
+    <Bond type1="RNA-AC6" type2="RNA-AN9" length="0.35" k="10000."/>
+    <Bond type1="RNA-BBC" type2="RNA-CN1" length="0.34" k="10000."/>
+    <Bond type1="RNA-CN1" type2="RNA-CC2" length="0.14" k="10000."/>
+    <Bond type1="RNA-CC2" type2="RNA-CC4" length="0.24" k="10000."/>
+    <Bond type1="RNA-CC4" type2="RNA-CN1" length="0.28" k="10000."/>
+    <Bond type1="RNA-BBC" type2="RNA-GN9" length="0.34" k="10000."/>
+    <Bond type1="RNA-GN9" type2="RNA-GC2" length="0.35" k="10000."/>
+    <Bond type1="RNA-GC2" type2="RNA-GC6" length="0.24" k="10000."/>
+    <Bond type1="RNA-GC6" type2="RNA-GN9" length="0.35" k="10000."/>
+    <Bond type1="RNA-BBC" type2="RNA-UN1" length="0.34" k="10000."/>
+    <Bond type1="RNA-UN1" type2="RNA-UC2" length="0.14" k="10000."/>
+    <Bond type1="RNA-UC2" type2="RNA-UC4" length="0.24" k="10000."/>
+    <Bond type1="RNA-UC4" type2="RNA-UN1" length="0.28" k="10000."/>
+  </HarmonicBondForce>
+  <HarmonicAngleForce>
+    <Angle type1="RNA-AN9" type2="RNA-AC2" type3="RNA-AC6" angle="1.233947781" k="100."/>
+    <Angle type1="RNA-AC2" type2="RNA-AC6" type3="RNA-AN9" angle="1.239183769" k="100."/>
+    <Angle type1="RNA-CN1" type2="RNA-CC2" type3="RNA-CC4" angle="1.556833693" k="100."/>
+    <Angle type1="RNA-CC2" type2="RNA-CC4" type3="RNA-CN1" angle="0.541052068" k="100."/>
+    <Angle type1="RNA-GN9" type2="RNA-GC2" type3="RNA-GC6" angle="1.233947781" k="100."/>
+    <Angle type1="RNA-GC2" type2="RNA-GC6" type3="RNA-GN9" angle="1.239183769" k="100."/>
+    <Angle type1="RNA-UN1" type2="RNA-UC2" type3="RNA-UC4" angle="1.556833693" k="100."/>
+    <Angle type1="RNA-UC2" type2="RNA-UC4" type3="RNA-UN1" angle="0.541052068" k="100."/>
+  </HarmonicAngleForce>
+  <NonbondedForce coulomb14scale="0.1" lj14scale="0.1">
+    <UseAttributeFromResidue name="charge"/>
+    <Atom type="RNA-BBP" sigma="0.44" epsilon="0.8"/>
+    <Atom type="RNA-BBC" sigma="0.44" epsilon="0.8"/>
+    <Atom type="RNA-AN9" sigma="0.39" epsilon="0.4"/>
+    <Atom type="RNA-AC2" sigma="0.41" epsilon="0.4"/>
+    <Atom type="RNA-AC6" sigma="0.41" epsilon="0.4"/>
+    <Atom type="RNA-CN1" sigma="0.39" epsilon="0.4"/>
+    <Atom type="RNA-CC2" sigma="0.41" epsilon="0.4"/>
+    <Atom type="RNA-CC4" sigma="0.41" epsilon="0.4"/>
+    <Atom type="RNA-GN9" sigma="0.39" epsilon="0.4"/>
+    <Atom type="RNA-GC2" sigma="0.41" epsilon="0.4"/>
+    <Atom type="RNA-GC6" sigma="0.41" epsilon="0.4"/>
+    <Atom type="RNA-UN1" sigma="0.39" epsilon="0.4"/>
+    <Atom type="RNA-UC2" sigma="0.41" epsilon="0.4"/>
+    <Atom type="RNA-UC4" sigma="0.41" epsilon="0.4"/>
+  </NonbondedForce>
+</ForceField>
